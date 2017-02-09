@@ -1,0 +1,180 @@
+en code	ja code 	ja name	en name
+AED	AED	UAEディルハム	United Arab Emirates dirham
+AFN	AFN	アフガニ	Afghan afghani
+ALL	ALL	レク	Albanian lek
+AMD	AMD	ドラム	Armenian dram
+ANG	ANG	アンティル・ギルダー	Netherlands Antillean guilder
+AOA	AOA	クワンザ	Angolan kwanza
+ARS	ARS	アルゼンチン・ペソ	Argentine peso
+AUD	AUD	オーストラリア・ドル	Australian dollar
+AWG	AWG	アルバ・フロリン	Aruban florin
+AZN	AZN	アゼルバイジャン・マナト	Azerbaijani manat
+BAM	BAM	兌換マルク	Bosnia and Herzegovina convertible mark
+BBD	BBD	バルバドス・ドル	Barbados dollar
+BDT	BDT	タカ	Bangladeshi taka
+BGN	BGN	レフ	Bulgarian lev
+BHD	BHD	バーレーン・ディナール	Bahraini dinar
+BIF	BIF	ブルンジ・フラン	Burundian franc
+BMD	BMD	バミューダ・ドル	Bermudian dollar
+BND	BND	ブルネイ・ドル	Brunei dollar
+BOB	BOB	ボリビアーノ	Boliviano
+BOV			Bolivian Mvdol (funds code)
+BRL	BRL	レアル	Brazilian real
+BSD	BSD	バハマ・ドル	Bahamian dollar
+BTN	BTN	ニュルタム	Bhutanese ngultrum
+BWP	BWP	プラ	Botswana pula
+BYN	BYR	ベラルーシ・ルーブル	New Belarusian ruble
+BYR			Belarusian ruble
+BZD	BZD	ベリーズ・ドル	Belize dollar
+CAD	CAD	カナダ・ドル	Canadian dollar
+CDF	CDF	コンゴ・フラン	Congolese franc
+CHE			WIR Euro (complementary currency)
+CHF	CHF	スイス・フラン	Swiss franc
+CHW			WIR Franc (complementary currency)
+CLF			Unidad de Fomento (funds code)
+CLP	CLP	チリ・ペソ	Chilean peso
+CNY	CNY	人民元	Chinese yuan
+COP	COP	コロンビア・ペソ	Colombian peso
+COU			Unidad de Valor Real (UVR) (funds code)[7]
+CRC	CRC	コスタリカ・コロン	Costa Rican colon
+CUC	CUC	兌換ペソ	Cuban convertible peso
+CUP	CUP	キューバ・ペソ	Cuban peso
+CVE	CVE	カーボベルデ・エスクード	Cape Verde escudo
+CZK	CZK	チェコ・コルナ	Czech koruna
+DJF	DJF	ジブチ・フラン	Djiboutian franc
+DKK	DKK	デンマーク・クローネ	Danish krone
+DOP	DOP	ドミニカ・ペソ	Dominican peso
+DZD	DZD	アルジェリア・ディナール	Algerian dinar
+EGP	EGP	エジプト・ポンド	Egyptian pound
+ERN	ERN	ナクファ	Eritrean nakfa
+ETB	ETB	ブル	Ethiopian birr
+EUR	EUR	ユーロ	Euro
+FJD	FJD	フィジー・ドル	Fiji dollar
+FKP	FKP	フォークランド諸島・ポンド	Falkland Islands pound
+GBP	GBP	UKポンド	Pound sterling
+GEL	GEL	ラリ	Georgian lari
+GHS	GHS	セディ	Ghanaian cedi
+GIP	GIP	ジブラルタル・ポンド	Gibraltar pound
+GMD	GMD	ダラシ	Gambian dalasi
+GNF	GNF	ギニア・フラン	Guinean franc
+GTQ	GTQ	ケツァル	Guatemalan quetzal
+GYD	GYD	ガイアナ・ドル	Guyanese dollar
+HKD	HKD	香港ドル	Hong Kong dollar
+HNL	HNL	レンピラ	Honduran lempira
+HRK	HRK	クーナ	Croatian kuna
+HTG	HTG	グールド	Haitian gourde
+HUF	HUF	フォリント	Hungarian forint
+IDR	IDR	ルピア	Indonesian rupiah
+ILS	ILS	新シェケル	Israeli new shekel
+INR	INR	インド・ルピー	Indian rupee
+IQD	IQD	イラク・ディナール	Iraqi dinar
+IRR	IRR	イラン・リヤル	Iranian rial
+ISK	ISK	アイスランド・クローナ	Icelandic króna
+JMD	JMD	ジャマイカ・ドル	Jamaican dollar
+JOD	JOD	ヨルダン・ディナール	Jordanian dinar
+JPY	JPY	円	Japanese yen
+KES	KES	ケニア・シリング	Kenyan shilling
+KGS	KGS	キルギス・ソム	Kyrgyzstani som
+KHR	KHR	リエル	Cambodian riel
+KMF	KMF	コモロ・フラン	Comoro franc
+KPW	KPW	ウォン	North Korean won
+KRW	KRW	ウォン	South Korean won
+KWD	KWD	クウェート・ディナール	Kuwaiti dinar
+KYD	KYD	ケイマン諸島・ドル	Cayman Islands dollar
+KZT	KZT	テンゲ	Kazakhstani tenge
+LAK	LAK	キープ	Lao kip
+LBP	LBP	レバノン・ポンド	Lebanese pound
+LKR	LKR	スリランカ・ルピー	Sri Lankan rupee
+LRD	LRD	リベリア・ドル	Liberian dollar
+LSL	LSL	ロチ	Lesotho loti
+LYD	LYD	リビア・ディナール	Libyan dinar
+MAD	MAD	モロッコ・ディルハム	Moroccan dirham
+MDL	MDL	モルドバ・レウ	Moldovan leu
+MGA	MGA	アリアリ	Malagasy ariary
+MKD	MKD	マケドニア・デナール	Macedonian denar
+MMK	MMK	チャット	Myanmar kyat
+MNT	MNT	トゥグルグ	Mongolian tögrög
+MOP	MOP	パタカ	Macanese pataca
+MRO	MRO	ウギア	Mauritanian ouguiya
+MUR	MUR	モーリシャス・ルピー	Mauritian rupee
+MVR	MVR	ルフィヤ	Maldivian rufiyaa
+MWK	MWK	マラウイ・クワチャ	Malawian kwacha
+MXN	MXN	メキシコ・ペソ	Mexican peso
+MXV			Mexican Unidad de Inversion (UDI) (funds code)
+MYR	MYR	リンギット	Malaysian ringgit
+MZN	MZN	メティカル	Mozambican metical
+NAD	NAD	ナミビア・ドル	Namibian dollar
+NGN	NGN	ナイラ	Nigerian naira
+NIO	NIO	ニカラグア・コルドバ	Nicaraguan córdoba
+NOK	NOK	ノルウェー・クローネ	Norwegian krone
+NPR	NPR	ネパール・ルピー	Nepalese rupee
+NZD	NZD	ニュージーランド・ドル	New Zealand dollar
+OMR	OMR	オマーン・リアル	Omani rial
+PAB	PAB	バルボア	Panamanian balboa
+PEN	PEN	ヌエボ・ソル	Peruvian Sol
+PGK	PGK	キナ	Papua New Guinean kina
+PHP	PHP	フィリピン・ペソ	Philippine peso
+PKR	PKR	パキスタン・ルピー	Pakistani rupee
+PLN	PLN	ズウォティ	Polish złoty
+PYG	PYG	グアラニー	Paraguayan guaraní
+QAR	QAR	カタール・リヤル	Qatari riyal
+RON	RON	新ルーマニア・レウ	Romanian leu
+RSD	RSD	セルビア・ディナール	Serbian dinar
+RUB	RUB	ロシア・ルーブル	Russian ruble
+RWF	RWF	ルワンダ・フラン	Rwandan franc
+SAR	SAR	サウジアラビア・リヤル	Saudi riyal
+SBD	SBD	ソロモン諸島ドル	Solomon Islands dollar
+SCR	SCR	セーシェル・ルピー	Seychelles rupee
+SDG	SDG	スーダン・ポンド	Sudanese pound
+SEK	SEK	スウェーデン・クローナ	Swedish krona/kronor
+SGD	SGD	シンガポール・ドル	Singapore dollar
+SHP	SHP	セントヘレナ・ポンド	Saint Helena pound
+SLL	SLL	レオン	Sierra Leonean leone
+SOS	SOS	ソマリア・シリング	Somali shilling
+SRD	SRD	スリナム・ドル	Surinamese dollar
+SSP	SSP	南スーダン・ポンド	South Sudanese pound
+STD	STD	ドブラ	São Tomé and Príncipe dobra
+SVC	SVC	サルバドール・コロン	Salvadoran colón
+SYP	SYP	シリア・ポンド	Syrian pound
+SZL	SZL	リランゲニ	Swazi lilangeni
+THB	THB	バーツ	Thai baht
+TJS	TJS	ソモニ	Tajikistani somoni
+TMT	TMT	トルクメニスタン・マナト	Turkmenistani manat
+TND	TND	チュニジア・ディナール	Tunisian dinar
+TOP	TOP	パアンガ	Tongan paʻanga
+TRY	TRY	新トルコリラ	Turkish lira
+TTD	TTD	トリニダード・トバゴ・ドル	Trinidad and Tobago dollar
+TWD	TWD	ニュー台湾ドル	New Taiwan dollar
+TZS	TZS	タンザニア・シリング	Tanzanian shilling
+UAH	UAH	フリヴニャ	Ukrainian hryvnia
+UGX	UGX	ウガンダ・シリング	Ugandan shilling
+USD	USD	アメリカ合衆国ドル	United States dollar
+USN			United States dollar (next day) (funds code)
+UYI			Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)
+UYU	UYU	ウルグアイ・ペソ	Uruguayan peso
+UZS	UZS	スム	Uzbekistan som
+VEF	VEF	ボリバル	Venezuelan bolívar
+VND	VND	ドン	Vietnamese dong
+VUV	VUV	バツ	Vanuatu vatu
+WST	WST	タラ	Samoan tala
+XAF	XAF	CFAフラン	CFA franc BEAC
+XAG	XAG	銀	Silver (one troy ounce)
+XAU	XAU	金	Gold (one troy ounce)
+XBA			European Composite Unit (EURCO) (bond market unit)
+XBB			European Monetary Unit (E.M.U.-6) (bond market unit)
+XBC			European Unit of Account 9 (E.U.A.-9) (bond market unit)
+XBD			European Unit of Account 17 (E.U.A.-17) (bond market unit)
+XCD	XCD	東カリブ・ドル	East Caribbean dollar
+XDR	XDR	特別引出権	Special drawing rights
+XOF	XOF	CFAフラン	CFA franc BCEAO
+XPD	XPD	パラジウム	Palladium (one troy ounce)
+XPF	XPF	CFPフラン	CFP franc (franc Pacifique)
+XPT	XPT	白金	Platinum (one troy ounce)
+XSU	XTS	テスト用コード	SUCRE
+XTS			Code reserved for testing purposes
+XUA			ADB Unit of Account
+XXX			No currency 
+YER	YER	イエメン・リアル	Yemeni rial
+ZAR	ZAR	ランド	South African rand
+ZMW	ZMK	ザンビア・クワチャ	Zambian kwacha
+ZWL	ZWD	ジンバブエ・ドル	Zimbabwean dollar A/10

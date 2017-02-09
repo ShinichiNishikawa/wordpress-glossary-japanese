@@ -1,0 +1,577 @@
+アファル語	Afar
+アブハズ語	Abkhazian
+アチェ語	Achinese
+アチョリ語	Acoli
+アダグメ語	Adangme
+アディゲ語	Adyghe; Adygei
+アフロ・アジア語族(その他)	Afro-Asiatic languages
+アフリヒリ	Afrihili
+アフリカーンス語	Afrikaans
+アイヌ語	Ainu
+アカン語	Akan
+アッカド語	Akkadian
+アルバニア語	Albanian
+アリュート語	Aleut
+アルゴンキン語族	Algonquian languages
+南アルタイ語	Southern Altai
+アムハラ語	Amharic; Abyssinian
+古英語	Old English (ca. 450-1100)
+アンガ語	Angika
+アパッチ語族	Apache languages
+アラビア語	Arabic
+アラム語	Aramaic
+	→Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)
+アラゴン語	Aragonese
+アルメニア語	Armenian
+アラウコ語族	Araucanian
+	→Mapudungun; Mapuche
+アラパホ語	Arapaho
+人工言語(その他)	Artificial (Other)
+	→Artificial languages
+アラワク語族	Arawak
+アッサム語	Assamese
+アストゥリアス語	Asturian; Bable
+	→Asturian; Bable; Leonese; Asturleonese
+アサパスカ語族	Athapascan languages
+オーストラリア先住民語	Australian languages
+アバール語	Avarish
+	→Avaric
+アベスタ語	Avestan
+アワディー語	Awadhi
+アイマラ語	Aymara
+アゼルバイジャン語	Azerbaijani
+バンダ語	Banda
+	→Banda languages
+バミレケ諸語	Bamileke languages
+バシュキール語	Bashkir
+バルーチー語	Baluchi
+バンバラ語	Bambara
+バリ語	Balinese
+バスク語	Basque
+バサ語	Basa
+バルト語派(その他)	Baltic (Other)
+	→Baltic languages
+ベジャ語	Beja
+	→Beja; Bedawiyet
+白ロシア語；ベラルーシ語	Belarusian; Byelorussian
+ベンバ語	Bemba
+ベンガル語	Bengali; Bangla
+ベルベル語派(その他)	Berber (Other)
+	→Berber languages
+ボージュプリー語	Bhojpuri
+ビハール語	Bihari
+	→Bihari languages
+ビコル小語群	Bikol
+ビニ語	Bini
+	→Bini; Edo
+ビスラマ語	Bislama
+ブラックフット語	Siksika
+バントゥ諸語(その他)	Bantu (Other)
+	→Bantu languages
+ボスニア語	Bosnian
+ブラジ語	Braj
+ブルトン語	Breton
+バタク語(インドネシア)	Batak (Indonesia)
+	→Batak languages
+ブリヤート語	Buriat
+ブギス語	Buginese
+ブルガリア語	Bulgarian
+ビルマ語；ミャンマー語	Myanmar; Burmese
+ビリン語	Blin; Bilin
+カド語	Caddo
+中米インディアン諸語(その他)	Central American Indian (Other)
+	→Central American Indian languages
+カリブ語	Carib
+	→Galibi Carib
+カタロニア語	Catalan
+カフカース諸語(その他)	Caucasian (Other)
+	→Caucasian languages
+セブアノ語	Cebuano
+ケルト語派(その他)	Celtic (Other)
+	→Celtic languages
+チャモロ語	Chamorro
+チブチャ語族	Chibcha
+チェチェン語	Chechen
+チャガタイ語	Chagatai
+中国語	Chinese
+トラック語	Chuukese
+マリ語	Mari
+チヌーク・ジャーゴン	Chinook jargon
+チョクトー語	Choctaw
+チペワイアン語	Chipewyan
+	→Chipewyan; Dene Suline
+チェロキー語	Cherokee
+教会スラブ語	Old Slavonic; Old Church Slavonic; Church Slavonic; Old Bulgarian
+	→Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+チュワシュ語	Chuvash
+シャイアン語	Cheyenne
+チャム諸語	Chamic languages
+コプト語	Coptic
+コーンウォール語	Cornish
+コルシカ語	Corsican
+英語系クレオル諸語及びピジン語(その他)	English-based creoles and pidgins (Other)
+	→Creoles and pidgins, English based
+フランス語系クレオル諸語及びピジン語(その他)	French-based creoles and pidgins (Other)
+	→Creoles and pidgins, French-based
+ポルトガル語系クレオル諸語及びピジン語(その他)	Portuguese-based creoles and pidgins (Other)
+	→Creoles and pidgins, Portuguese-based
+クリー語	Cree
+クリム・タタール語；クリム・トルコ語	Crimean Tatar; Crimean Turkish
+クレオル諸語及びピジン語(その他)	Creoles and pidgins (Other)
+	→Creoles and pidgins
+カシューブ語	Kashubian
+クシュ語派(その他)	Cushitic (Other)
+	→Cushitic languages
+チェコ語	Czech
+ダコタ語	Dakota
+デンマーク語	Danish
+ダルグワ語	Dargwa
+ダヤク語	Dayak
+	→Land Dayak languages
+デラウエア語	Delaware
+スレイビー語	Slave (Athapascan)
+ドグリブ語	Dogrib
+ディンカ語	Dinka
+ディベヒ語；モルジブ語	Divehi; Maldivian
+	→Divehi; Dhivehi; Maldivian
+ドーグリー語	Dogri
+ドラビダ語族(その他)	Dravidian (Other)
+	→Dravidian languages
+下ソルブ語	Lower Sorbian
+ドゥアラ語	Duala
+中期オランダ語	Middle Dutch (ca. 1050-1350)
+オランダ語	Dutch
+ジュラ語	Dyula
+ゾンカ語；ブータン語	Dzongkha; Bhutani; Butanese
+エフィック語	Efik
+古代エジプト語	Egyptian (Ancient)
+エカジュク語	Ekajuk
+エラム語	Elamite
+英語	English
+中期英語	Middle English (1100-1500)
+エスペラント語	Esperanto
+エストニア語	Estonian
+エウェ語群；エベ語群	Ewe
+エウォンド語	Ewondo
+ファン語	Fang
+フェーロー語	Faroese; Faeroese
+ファンテ語	Fanti
+フィジー語	Fijian
+フィリピノ語；ピリピノ語	Filipino; Pilipino
+フィンランド語	Finnish
+フィン・ウゴル語派(その他)	Finno-Ugrian (Other)
+	→Finno-Ugrian languages
+フォン語	Fon
+フランス語	French
+中期フランス語	Middle French (ca. 1400-1600)
+古フランス語	Old French (842-ca. 1400)
+北フリジア語	Northern Frisian
+東フリジア語	Eastern Frisian
+フリジア語；西フリジア語	Frisian; Western Frisian
+	→Western Frisian
+フラニ語；フルフルデ語	Fulah; Fula; Fulani; Fulfulde; Peul
+	→Fulah
+フリウリ語	Friulian
+ガー語	Ga
+ガヨ語	Gayo
+グバヤ方言群	Gbaya
+ゲルマン語派(その他)	Germanic (Other)
+	→Germanic languages
+グルジア語	Georgian
+ドイツ語	German
+ゲエズ語	Geez
+キリバス語；ギルバート語	Gilbertese
+高地スコットランド・ゲール語	Gaelic; Scottish Gaelic; Gaelic (Scots)
+アイルランド語	Irish
+ガリシア語	Galician; Gallegan
+	→Galician
+マン島語	Manx Gaelic
+	→Manx
+中高ドイツ語	Middle High German (ca. 1050-1500)
+古高ドイツ語	Old High German (ca. 750-1050)
+ゴーンディー語	Gondi
+ゴロンタロ語	Gorontalo
+ゴート語	Gothic
+グレボ小語群	Grebo
+古代ギリシア語	Ancient Greek (to 1453)
+現代ギリシア語	Modern Greek (post 1453)
+グァラニ語；ワラニー語	Guarani
+スイス・ドイツ語；アレマン語	Swiss German; Alemanic
+	→Swiss German; Alemannic; Alsatian
+グジャラート語	Gujarati
+クチン語	Gwich'in
+ハイダ語	Haida
+ハイチ語；ハイチ・クレオール語	Haitian; Haitian Creole
+ハウサ語	Hausa
+ハワイ語	Hawaiian
+ヘブライ語	Hebrew
+ヘレロ語	Herero
+ヒリガイノン語	Hiligaynon
+ヒマチャリー語	Himachali
+	→Himachali languages; Western Pahari languages
+ヒンディー語	Hindi
+ヒッタイト語	Hittite
+フモン語	Hmong
+	→Hmong; Mong
+ヒリモトゥ語	Hiri Motu
+上ソルブ語	Upper Sorbian
+ハンガリー語；マジャル語	Hungarian
+フーパ語	Hupa
+イバン語	Iban
+イグボ語；イボ語	Igbo; Ibo
+	→Igbo
+アイスランド語	Icelandic
+イド語	Ido
+彝語	Sichuan Yi
+	→Sichuan Yi; Nuosu
+イジョー方言群	Ijo
+	→Ijo languages
+イヌイット語；エスキモー語	Inuktitut
+インターリング	Interlingue
+	→Interlingue; Occidental
+イロカノ語	Iloko
+インターリンガ語	Interlingua
+インド語派(その他)	Indic (Other)
+	→Indic languages
+インドネシア語	Indonesian
+インド・ヨーロッパ語族(その他)	Indo-European (Other)
+	→Indo-European languages
+イングシ語	Ingush
+イヌピアック語	Inupiaq
+イラン語派(その他)	Iranian (Other)
+	→Iranian languages
+イロコイ語族	Iroquoian languages
+イタリア語	Italian
+ジャワ語	Javanese
+ロジバン語	Lojban
+日本語	Japanese
+ユダヤ・ペルシア語	Judeo-Persian
+ユダヤ・アラビア語	Judeo-Arabic
+カラカルパク語	Kara-Kalpak
+カビール語	Kabyle
+カチン語	Kachin
+	→Kachin; Jingpho
+グリーンランド語	Greenlandic; Kalaallisut
+カンバ語	Kamba
+カンナダ語	Kannada
+カレン語群	Karen
+	→Karen languages
+カシュミール語	Kashmiri
+カヌリ語	Kanuri
+カウィ語	Kawi
+カザフ語	Kazakh
+カバルド語	Kabardian
+カシ語	Khasi
+コイサン語族(その他)	Khoisan (Other)
+	→Khoisan languages
+カンボジア語；クメール語	Khmer; Cambodian
+	→Central Khmer
+コータン語	Khotanese
+	→Khotanese; Sakan
+キクユ語	Kikuyu; Gikuyu
+ルワンダ語	Kinyarwanda; Rwanda
+キルギス語	Kyrgyz; Kirghiz
+	→Kirghiz; Kyrgyz
+キンブンドゥ語	Kimbundu
+コーンカニー語	Konkani
+コミ語	Komi
+コンゴ語	Kongo; Kikongo
+	→Kongo
+韓国語；朝鮮語	Korean
+コシャエ語	Kosraean
+クペレ語	Kpelle
+カラチャイ・バルカル語	Karachay-Balkar
+カレリア語	Karelian
+クルー諸語	Kru
+	→Kru languages
+クルク語	Kurukh
+クワニャマ語	Kwanyama; Kuanyama
+	→Kuanyama; Kwanyama
+クムク語	Kumyk
+クルド語	Kurdish
+クーテナイ語	Kutenai
+ユダヤ・スペイン語	Ladino
+ラーンダー語	Lahnda
+ランバ語	Lamba
+ラオ語	Laotian; Lao
+ラテン語	Latin
+ラトビア語	Latvian; Lettish
+レズギ語	Lezghian
+リンブルガー語	Limburgan; Limburger; Limburgish
+リンガラ語	Lingala
+リトアニア語	Lithuanian
+モンゴ語	Mongo
+ロズィ語	Lozi
+ルクセンブルク語	Luxembourgish
+	→Luxembourgish; Letzeburgesch
+ルバ・ルルア小語群	Luba-Lulua
+キルバ語	Luba-Katanga
+ガンダ語	Luganda; Ganda
+	→Ganda
+ルイセーニョ語	Luiseno
+ルンダ語	Lunda
+ルオ語	Luo (Kenya and Tanzania)
+ルシャイ語	lushai
+マケドニア語	Macedonian
+マドゥラ語	Madurese
+マガヒー語	Magahi
+マーシャル語	Marshallese
+マイティリー語	Maithili
+マカッサル語	Makasar
+マラヤーラム語	Malayalam
+マンデ語；マンディンゴ語	Mandingo
+マオリ語	Maori
+オーストロネシア語族(その他)	Austronesian (Other)
+	→Austronesian languages
+マラーティー語	Marathi
+マサイ語	Masai
+マレー語	Malay
+モクシャ語	Moksha
+マンダル語	Mandar
+メンデ語	Mende
+中期アイルランド語	Middle Irish (900-1200)
+ミクマック語	Micmac
+	→Mi'kmaq; Micmac
+ミナンカバウ語	Minangkabau
+その他の言語	Miscellaneous languages
+	→Uncoded languages
+モン・クメール語派(その他)	Mon-Khmer (Other)
+	→Mon-Khmer languages
+マラガシ語	Malagasy
+マルタ語	Maltese
+満州語	Manchu
+マニプル語	Manipuri
+マノボ語族	Manobo languages
+モホーク語	Mohawk
+モルダビア語	Moldavian
+満州語；モンゴル語	Mongolian
+モシ語	Mossi
+複数言語	multiple languages
+ムンダー諸語	Munda languages
+クリーク語	Creek
+ミランダ語	Mirandese
+マールワーリー語	Marwari
+マヤ語族	Mayan languages
+エルジャ語	Erzya
+ナワトル語	Nahuatl
+	→Nahuatl languages
+北米インディアン諸語(その他)	North American Indian (Other)
+	→North American Indian languages
+ナポリ語	Neapolitan
+ナウル語	Nauran
+ナバホ語	Navajo
+	→Navajo; Navaho
+南ンデベレ語	South Ndebele
+	→Ndebele, South; South Ndebele
+北ンデベレ語	North Ndebele
+	→Ndebele, North; North Ndebele
+ンドゥンガ語	Ndonga
+低地ドイツ語	Low German; Low Saxon
+	→Low German; Low Saxon; German, Low; Saxon, Low
+ネパール語	Nepali
+ネワール語	Newari
+ニアス語	Nias
+ニジェール・コルドファン語族(その他)	Niger-Kordofanian (Other)
+	→Niger-Kordofanian languages
+ニウエー語	Niuean
+ニューノシュク	Norwegian Nynorsk
+	→Norwegian Nynorsk; Nynorsk, Norwegian
+ブークモール	Norwegian Bokmal
+	→Bokmål, Norwegian; Norwegian Bokmål
+ノガイ語	Nogai
+古ノルド語	Old Norse
+ノルウェー語	Norwegian
+ンコ語	N'ko
+北ソト語	Northern Sotho
+	→Pedi; Sepedi; Northern Sotho
+ヌビア語群	Nubian languages
+古典ネワール語	Classical Newari; Old Newari
+	→Classical Newari; Old Newari; Classical Nepal Bhasa
+チェワ語；ニャンジャ語	Chichewa; Chewa; Nyanja
+ニャムウェズィ語	Nyamwezi
+ニャンコレ語	Nyankole
+ニョロ語	Nyoro
+ンジマ語	Nzima
+オック語	Occitan (post 1500); Provencal (post 1500)
+	→Occitan (post 1500)
+オジブワ語	Ojibwa
+オリヤー語	Oriya
+オロモ語；ガッラ語	Oromo; Afan Oromo; Galla
+オセージ語	Osage
+オセット語	Ossetian
+	→Ossetian; Ossetic
+オスマン・トルコ語	Ottoman Turkish (1500-1928)
+オトミ語	Otomian languages
+パプア諸語(その他)	Papuan (Other)
+	→Papuan languages
+パンガシナン語	Pangasinan
+中期ペルシア語；パフラビ語	Pahlavi
+カパンパンガン語	Pampanga
+	→Pampanga; Kapampangan
+パンジャーブ語	Punjabi; Panjabi
+パピアメント語	Papiamento
+パラオ語	Palauan
+古代ペルシア語	Old Persian (ca. 600-400 B.C.)
+ペルシア語	Farsi; Persian
+フィリピン諸語(その他)	Philippine (Other)
+	→Philippine languages
+フェニキア語	Phoenician
+パーリ語	Pali
+ポーランド語	Polish
+ポナペ語	Pohnpeian
+ポルトガル語	Portuguese
+プラークリット語	Prakrit languages
+プロバンス語	Old Provencal (to 1500)
+	→Provençal, Old (to 1500);Occitan, Old (to 1500)
+パシュトー語	Pashto; Pushto
+	→Pushto; Pashto
+局地用	reserved for local use
+ケチュア語	Quechua
+ラージャスターン語	Rajasthani
+ラパヌイ語	Rapanui
+ラロトンガ語	Rarotongan
+	→Rarotongan; Cook Islands Maori
+ロマンス諸語(その他)	Romance (Other)
+	→Romance languages
+レト・ロマンス語；ロマンシュ語	Rhaeto-Romance
+	→Romansh
+ロマーニー語	Romani
+ルーマニア語	Romanian
+ルンディ語	Kirundi; Rundi
+アルーマニア語；マケド・ルーマニア語	Aromanian; Arumanian; Macedo-Romanian
+ロシア語	Russian
+サンダウェ語	Sandawe
+サンゴ語	Sangho
+ヤクート語	Yakut
+南米インディアン諸語(その他)	South American Indian (Other)
+	→South American Indian languages
+セイリッシュ語族	Salishan languages
+サマリア・アラム語	Samaritan Aramaic
+サンスクリット語	Sanskrit
+ササク語	Sasak
+サンタール語	Santali
+セルビア語	Serbian
+シチリア語	Sicilian
+低地スコットランド・ゲール語	Lowlands Scots; Scots; Lallans
+クロアチア語	Croatian
+セリクプ語	Selkup
+セム語族(その他)	Semitic (Other)
+	→Semitic languages
+古アイルランド語	Old Irish (to 900)
+手話	Sign languages
+シャン語	Shan
+シダモ語	Sidamo
+シンハラ語	Sinhalese; Singhalese
+	→Sinhala; Sinhalese
+スー語族	Siouan languages
+シナ・チベット語族(その他)	Sino-Tibetan (Other)
+	→Sino-Tibetan languages
+スラブ語派(その他)	Slavic (Other)
+	→Slavic languages
+スロバキア語	Slovak
+スロベニア語	Slovenian
+南サーミ語	Southern Sami
+北サーミ語	Northern Sami
+サーミ語(その他)	Sami (Other)
+	→Sami languages
+ルレ・サーミ語	Lule Sami
+イナリ・サーミ語	Inari Sami
+サモア語	Samoan
+スコルト・サーミ語	Skolt Sami
+ショナ語	Shona; Chishona
+シンド語	Sindhi
+ソニンケ語	Soninke
+ソグド語	Sogdian
+ソマリ語	Somali
+ソンガイ語	Songhai
+	→Songhai languages
+南ソト語	Sesotho; Southern Sotho
+スペイン語；カスティーヤ語	Spanish; Castilian
+サルデーニャ語	Sardinian
+スラナン語	Sranan Tongo
+セレル語	Serer
+ナイル・サハラ言語群(その他)	Nilo-Saharan (Other)
+	→Nilo-Saharan languages
+スワティ語	Swazi; Swati; Siswati
+スクマ語	Sukuma
+スンダ語	Sundanese
+スス語	Susu
+シュメール語	Sumerian
+スワヒリ語	Swahili; Kiswahili
+スウェーデン語	Swedish
+古典シリア語	Classical Syriac
+シリア語	Syriac
+タヒチ語	Tahitian
+タイ諸語(その他)	Tai (Other)
+	→Tai languages
+タミル語	Tamil
+タタール語	Tatar
+テルグ語	Telugu
+テムネ語	Timne
+テレーノ語	Tereno
+テトゥン語	Tetum
+タジク語	Tajiki
+タガログ語	Tagalog
+タイ語	Thai
+チベット語	Tibetan
+ティグレ語	Tigre
+ティグリニア語	Tigrinya
+ティブ語	Tiv
+トケラウ語	Tokelau
+クリンゴン語	Klingon; tlhIngan-Hol
+トリンギット語	Tlingit
+トゥアレグ語	Tamashek
+トンガ語(ニヤサ地方)	Tonga (Nyasa)
+トンガ語(トンガ諸島)	Tongan (Tonga Islands)
+トク・ピシン	Tok Pisin
+ツィムシアン語	Tsimshian
+ツワナ語	Setswana; Tswana
+ツォンガ語	Tsonga
+トルクメン語	Turkmen
+トゥンブカ語	Tumbuka
+トゥピ語族	Tupi languages
+トルコ語	Turkish
+アルタイ諸言語(その他)	Altaic (Other)
+	→Altaic languages
+ツバル語	Tuvalu
+チュイ語	Twi; Tshi
+トゥワ語	Tuvinian
+ウドムルト語	Udmurt
+ウガリト語	Ugaritic
+ウイグル語	Uighur
+	→Uighur; Uyghur
+ウクライナ語	Ukrainian
+ウンブンドゥ語	Umbundu
+不明言語	undetermined
+ウルドゥー語	Urdu
+ウズベク語	Uzbek
+バイ語	Vai
+ベンダ語	Venda
+ベトナム語	Vietnamese
+ボラピューク語	Volapuk
+ボート語	Votic
+ワカシュ語族	Wakashan languages
+ワッラモ語	Walamo
+	→Wolaitta; Wolaytta
+ワライ語	Waray
+ワショ語	Washo
+ウェールズ語	Welsh
+ソルブ語	Sorbian languages
+ワロン語	Walloon
+ウォロフ語	Wolof
+カルムイク語；オイラト語	Kalmyk; Oirat
+コサ語	Xhosa
+ヤオ語	Yao
+ヤップ語	Yapese
+イディッシュ語	Yiddish
+ヨルバ語	Yoruba
+ユピック語	Yupik languages
+サポテック語	Zapotec
+	Blissymbols; Blissymbolics; Bliss
+ゼナガ語	Zenaga
+チュワン語	Zhuang; Chuang; Chwang
+	→Zhuang; Chuang
+ザンデ語	Zande languages
+ズールー語	Zulu
+ズニ語	Zuni
+ザザキ語	Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki
