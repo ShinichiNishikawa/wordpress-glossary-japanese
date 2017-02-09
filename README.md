@@ -36,4 +36,3 @@ RSS	RSS
 翻訳メモリや用語集をサポートするソフトウェアやサービスにインポートして利用してください。
 
 - [OmegaT 取扱説明書 第19章 用語集 \(Glossaries\)](http://omegat.sourceforge.net/manual-latest/ja/chapter.glossaries.html)
-- 
