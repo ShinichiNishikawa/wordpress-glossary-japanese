@@ -4,105 +4,144 @@ activate	有効化	ボタンなどに使う場合
 activate	有効化する	文章内で使う場合
 activated	有効化した	
 activated	有効化済み	
-activation e-mail	認証メール	Automated email sent when registering a new address with WordPress.com
+activation e-mail	認証メール	
+Active	有効	
 ad policy	広告ポリシー	The policy on advertisements that WordPress.com can place on user blogs.
-add email	メールを追加	Feature to connect email hosted with another provider. More info: http://en.support.wordpress.com/domains/add-email/
+add email	メールを追加	Feature to connect email hosted with another provider.
+Add New	新規追加	
 address	アドレス	
 admin bar	管理バー	
 admin panel	管理画面	
-administrator	管理者	The most powerful user role on a WordPress site. More info: http://en.support.wordpress.com/user-roles/
+administrator	管理者	The most powerful user role on a WordPress site.
+Advanced Options	高度な設定	
 advanced settings	高度な設定	
-After the Deadline	After the Deadline	Automattic のサービス名 cf. http://www.afterthedeadline.com/
-After the Deadline	After the Deadline	Language checker (software name). Normally do not translate. http://afterthedeadline.com/
 all	すべて	ひらがな書き
+All	すべて	
+All Categories	すべてのカテゴリー	
+All Pricing Fields	すべての価格フィールド	
+All Submitted Fields	すべての送信済フィールド	
+Any	すべて	
+Any form field	すべてのフォームフィールド	
 Appearance	外観	管理画面メニュー項目
-A top-level menu item in WordPress dashboard. Includes Themes, Customizer, Widgets, Menus, Header, Background, etc."		
 applicable law	適用法	Any law(s) that may apply
+Apply	適用	
 arbitral decision	仲裁判断	Decision reached by arbitration
 archive	アーカイブ	
 archive	アーカイブ化	
 archives	アーカイブ	Older (vs. Most recent) posts on a blog. Archives can be displayed by month, by category, by tag, etc.
 are you sure you want	...してもよいですか ?	
+Are you sure you wish to cancel these changes?	本当に変更をキャンセルしますか ?	
+Are you sure?	本当によろしいですか ?	
 argument	引数	
 array	配列	Development term
 article	投稿	Could refer to either pages or posts, depending on the theme.
 aside	アサイド	Post format type, displays as a short status update. To see more examples of post formats: http://en.support.wordpress.com/themes/post-formats/
 at the bottom	下部、下	
 attachment	添付ファイル	
-audio	音声ファイル	Audio files embedded on a blog. More info: http://en.support.wordpress.com/audio/
-Authenticator app	認証アプリ	An app for two factor authentification, e.g. Google Authentificator (there are other options). More info: http://en.support.wordpress.com/security/two-step-authentication/
+audio	音声ファイル	Audio files embedded on a blog.
+Authentication	認証	
+Authenticator app	認証アプリ	An app for two factor authentification, e.g. Google Authentificator (there are other options).
 author	作成者	テーマ・プラグインの作者
 author	投稿者	ブログ投稿を執筆したユーザー
-auto renew	自動更新	"See ""automatic renewal"""
+auto renew	自動更新	See "automatic renewal"
 automatic renewal	自動更新	A fee, usually annual, that gets collected on a recurring basis for a service. Automatic renewal is in contrast with the manual renewal, where the user needs to make the purchase each time.
 Automattic	Automattic	The company that produces WordPress.com, Akismet, Jetpack, etc. More info: http://automattic.com/about/
 Automattician	Automattic 社員	Employee of Automattic
 avatar	アバター	An image or picture that represents a user.
-background	背景	Back image or color of a blog. More info: http://en.support.wordpress.com/themes/custom-backgrounds/
+Back	戻る	
+background	背景	Back image or color of a blog.
 background color	背景色	
+Background Color	背景色	
 background image	背景画像	
 background pattern	背景パターン	Pattern used for the blog theme background
-backup code	バックアップコード	Codes used for account recovery. More info: http://en.support.wordpress.com/security/two-step-authentication/#backup-codes
+backup code	バックアップコード	Codes used for account recovery.
 Basic	ベーシック	See WordPress.com Basic
 billed yearly	年額請求	
-billing history	課金履歴	A page showing all transactions made with WordPress.com (or another Automattic service). More info: https://en.support.wordpress.com/billing-history/
+billing history	課金履歴	
 binary	バイナリ	
 blog	ブログ	A type of website that is sometimes compared to online journaling. Blogs come in many varieties, but most incorporate an interactive element such as comments and are comprised of posts, rather than static pages.
 blog address	ブログアドレス	URL where a blog can be found, e.g. Example.wordpress.com or example.com
 blog post	ブログ投稿	See “post”. A longer way to refer to a blog's posts
-blog theme	ブログテーマ	"Look and feel of your site, often referred to as simply ""theme"". More info: https://en.support.wordpress.com/themes/"
+blog theme	ブログテーマ	Look and feel of your site, often referred to as simply "theme". More info: https://en.support.wordpress.com/themes/
 blogger	ブロガー	A user creating content online, in the form of a blog
+Blue	青	
 bookmarklet	ブックマークレット	
 browser	ブラウザー	A web browser is the software used to access the web. Common browsers include Google Chrome, Apple Safari, Mozilla Firefo, xand Internet Explorer.
 BuddyPress	BuddyPress	WordPress.org plugin - http://buddypress.org/
-bundle	パッケージ	"Legacy term for ""plan"". More info: http://store.wordpress.com/bundles/"
+bundle	パッケージ	Legacy term for "plan".
 bundle purchase	バリューパック	Purchase of a premium plan (sometimes also called “bundle”), e.g. WordPress.com Premium or WordPress.com Business
 button	ボタン	Refers to button on the screen that the user is expected/directed to click
+Cancel	キャンセル	
+Cancelled	キャンセル済み	
+Caption	キャプション	
+Card Number	カード番号	
 cart	お買い物カゴ	Online shopping cart
 category	カテゴリー	例外で長音付き
+Category	カテゴリー	
+Centered	中央寄せ	
 character code	文字コード	
 character entity reference	文字実体参照	
 character set	文字セット	
 chargeback	チャージバック	Reversal of a credit card charge by the paying party.
-chargeback fee	チャージバック手数料	"A ""fine"" a user needs to pay to re-enable their blog, if they reverse a credit card payment to WordPress.com"
+chargeback fee	チャージバック手数料	A "fine" a user needs to pay to re-enable their blog, if they reverse a credit card payment to WordPress.com
+Checkbox	チェックボックス	
+Checkboxes	チェックボックス	
 chracteter code	文字コード	
-CNAME record	CNAME レコード	Type of a DNS record. More info: http://en.support.wordpress.com/domains/setting-custom-a-records/#adding-www-to-your-domain
+City	市/町	
+Clear	解除	
+Close Window	ウィンドウを閉じる	
+CNAME record	CNAME レコード	Type of a DNS record.
 color scheme	配色	
-comment	コメント	A reply left by visitors to your site on a blog post or page. Comments are typically left in response to the blog owner’s post and generate discussion on the site. More info: http://support.wordpress.com/comments/
+comment	コメント	A reply left by visitors to your site on a blog post or page. Comments are typically left in response to the blog owner’s post and generate discussion on the site.
 comment	コメントする	
-Community Translator	コミュニティ翻訳ツール	A tool on WordPress.com that allows users to suggest translations of the user interface without leaving the page they are browsing. More info: https://en.support.wordpress.com/community-translator/
+Completed	完了	
 computer	コンピューター	
 conditional tag	条件分岐タグ	
 constant	定数	
-contact form	お問い合わせフォーム	A form that allows others contact the site owner without knowing the email address. More info: http://en.support.wordpress.com/contact-form/
+contact form	お問い合わせフォーム	A form that allows others contact the site owner without knowing the email address.
+contains	を含む	
 Content Area	コンテンツエリア	Where the main blog content is displayed. Context: “Content Area Background”
-contributor	寄稿者	User role group. More info: https://en.support.wordpress.com/user-roles/#contributor
+contributor	寄稿者	User role group.
 Cookie	Cookie	ブラウザの Cookie
+Country	国	
 Creative Commons	クリエイティブ・コモンズ	An organization that provides free copyright licenses for sharing creative work. More info: http://creativecommons.org/about
-crop	切り抜く	Remove portions of an image. See more: https://en.support.wordpress.com/images/image-editing/#cropping
-Custom Colors	カスタムカラー	Part of the Custom Design upgrade, allows users to customize the color palette of their sites. More info: http://en.support.wordpress.com/custom-design/custom-colors/
-Custom CSS	カスタム CSS	Part of the Custom Design upgrade, allows users to edit and add custom CSS on their site. More info: http://en.support.wordpress.com/custom-design/custom-css/
+crop	切り抜く	Remove portions of an image.
+CSS Selectors	CSSセレクタ	
+Currency	通貨	
+Custom	カスタム	
+Custom Choices	カスタム選択肢	
+Custom Colors	カスタムカラー	Part of the Custom Design upgrade, allows users to customize the color palette of their sites.
+Custom CSS	カスタム CSS	Part of the Custom Design upgrade, allows users to edit and add custom CSS on their site.
 Custom Design	カスタムデザイン	WordPress.com paid upgrade product name
-Custom Domain	カスタムドメイン	An address like example.com or example.ru, as opposed to example.wordpress.com. More info: http://store.wordpress.com/premium-upgrades/custom-domains/
-Custom Fonts	カスタムフォント	Part of the Custom Design upgrade, allows users to add Typekit fonts to their site. More info: http://en.support.wordpress.com/custom-design/custom-fonts/
+Custom Domain	カスタムドメイン	An address like example.com or example.ru, as opposed to example.wordpress.com.
+Custom Fonts	カスタムフォント	Part of the Custom Design upgrade, allows users to add Typekit fonts to their site.
 Custom Post Type	カスタム投稿タイプ	
 customize	カスタマイズ	
-Customizer	カスタマイザー	A feature that allows users to customize and preview any theme before activating the changes. More info: http://en.support.wordpress.com/customizer/
+Customizer	カスタマイザー	A feature that allows users to customize and preview any theme before activating the changes.
 Dashboard	ダッシュボード	Your Dashboard is the administrative center for your blog. Via your Dashboard, you can create new posts, change your theme, or update your blog settings.
+Date	日付	
+Date Format	日付フォーマット	
+Day	日	
 deactivate	停止する	
 deactivate	無効化	
 default	デフォルト	
 default	初期設定	
 default	初期値	
+Default	デフォルト	
 default theme	デフォルトテーマ	
+Delete	削除	
+Delete Permanently	完全に削除	
 deprecated	非推奨の	
+Description	説明	
 description 	説明	
+Details	詳細	
 developer	開発者	
 Digital Millennium Copyright Act	デジタルミレニアム著作権法	A United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO). See more: http://www.copyright.gov/legislation/dmca.pdf
 directories	ディレクトリ	
 directory	ディレクトリ	
 disable	無効化	
-Distraction Free Writing	集中執筆モード	A full-screen editing mode, more info: http://en.support.wordpress.com/distraction-free-writing/
+Dismiss	非表示	
+Distraction Free Writing	集中執筆モード	A full-screen editing mode
 domain	ドメイン	
 Domain Contact Information	ドメインの連絡先情報	Contact information of the domain administrator (or owner)
 domain name	ドメイン名	A domain name is a name used for identification purposes on the Internet. An example of a domain name is yoursite.com.
@@ -112,65 +151,117 @@ domain subscription	ドメインサブスクリプション	A yearly upgrade to 
 domain transfer	ドメイン移管	The process of moving a domain's registration from one domain registrar to another
 domain upgrade	ドメインアップグレード	A yearly upgrade to replace a site's free WordPress.com address with a custom domain name
 draft	下書き	
+Draft	下書き	
+Drop Down	ドロップダウン	
+Duplicate	複製	
 eCommerce	eコマース	
+Edit	編集	
+Edit Form	フォームを編集	
+Edit Last Page	最後のページを編集	
 editor	エディター	Editing tool (e.g. visual editor, theme editor, plugin editor).
-editor	編集者	User role group. More info: http://en.support.wordpress.com/user-roles/#editor
+editor	編集者	User role group.
 email	メール	
 email	メールアドレス	
 email address	メールアドレス	Describes the inbox that email messages are sent to. An example is myname@gmail.com.
-emoji	絵文字	Emoticons or smilies: https://en.support.wordpress.com/smilies/#emojis
+Embed URL	URL 埋め込み	
+emoji	絵文字	Emoticons or smilies
 emoticon	顔文字	
+Empty Trash	ゴミ箱を空にする	
 enable	有効化	
+Enable	有効化	
+ends with	末尾文字列	
+Enter a value	値を入力	
+Entry Date	エントリー日付	
+Entry ID	エントリー ID	
+Entry Id	投稿 ID	
 Entry title	投稿タイトル	Title of an entry (post or page)
+Entry URL	投稿 URL	
 error	エラー	
-excerpt	抜粋	A shortened description of your blog post. More info: http://support.wordpress.com/splitting-content/excerpts/
-Extra Storage	追加容量	Upgrade that adds more storage space to the user's blog. More info: http://en.support.wordpress.com/space-upgrade/
+Error	エラー	
+excerpt	抜粋	A shortened description of your blog post.
+Excerpt	抜粋	
+Export Forms	フォームをエクスポート	
+Extra Storage	追加容量	Upgrade that adds more storage space to the user's blog.
 Facebook	Facebook	Social media service - http://facebook.com/
 favicon	ファビコン	The tiny image that usually shows up in the browser address bar when visiting a site. See also Blavatar
 featured image	アイキャッチ画像	
 featured post	おすすめ投稿	
 feed	フィード	
+File	ファイル	
 filter	フィルター	
 filter	絞り込む	
+Filter	フィルター	
 filter hook	フィルターフック	WordPress development term
-Firehose	Firehose	See WordPress.com Firehose
+Filters	フィルター	
+First Name	名	
 folder	フォルダー	
 Follow	フォロー	
 Follower	フォロワー	
 Following	フォロー中	
+Font Color	文字色	
 footer	フッター	The area below the main post or page content which usually includes information such as copyright notices, the theme, and hosting information.
+Force SSL	強制（自動）SSL	
+form	フォーム	
+Form Id	フォーム ID	
+Form Title	フォームのタイトル	
+forms	フォーム	
 Forum	フォーラム	User support forum.
 free trial	無料お試し	A time period when a normally paid upgrade can be used on a blog for free
-Freshly Pressed	Freshly Pressed	WordPress.com tool name. Editorial picks from WordPress.com, updated daily: https://wordpress.com/fresh/
 front end	フロントエンド	
-gallery	ギャラリー	A collection of images attached to a post. Also refers to the collection itself within the Media Library as well as the images as displayed within a post or page, typically as a series of thumbnails. More info: http://support.wordpress.com/images/gallery/
-gravatar	Gravatar	An image or picture that represents a user. More info: http://support.wordpress.com/avatars/#what-is-a-gravatar
+Full Size	フルサイズ	
+gallery	ギャラリー	A collection of images attached to a post. Also refers to the collection itself within the Media Library as well as the images as displayed within a post or page, typically as a series of thumbnails.
+General	一般	
+General Settings	一般設定	
+Global Settings	グローバル設定	
+Go to the first page	最初のページへ	
+Go to the last page	最後のページヘ	
+Go to the next page	次のページへ	
+Go to the previous page	前のページヘ	
+gravatar	Gravatar	An image or picture that represents a user.
 Gravatar Profile	Gravatar プロフィール	Image and personal information a user chooses to associate and share. Example of a Gravatar profile: gravatar.com/matt
-Ham	非スパム	"Humorous term for ""not spam"". Suggest translating as ""not spam"" to avoid confusion."
-Hammiest	非スパム最多	"With the most non-spam received in a time period. Also see ""ham"""
+greater than	より大きい	
+Green	緑	
+Ham	非スパム	Humorous term for "not spam". Suggest translating as "not spam" to avoid confusion.
+Hammiest	非スパム最多	With the most non-spam received in a time period. Also see "ham"
 Happiness Engineers	サポートスタッフ	
 Headers	ヘッダー	
 Help Center	ヘルプセンター	A support page (or app section) with answers to frequently asked questions and/or technical support contacts
 hide	非表示	Hide XX → 〜を非表示
+Hide	たたむ	
 host	ホスト	The home for your self-hosted WordPress site. Also known as hosting provider.
 hosting provider	ホスティングサービス	See host
 hosts	ホスティングサービス	
 hover	ホバー	e.g. link hover - additional changes to the original string might be needed.
 hover	マウスオーバー	e.g. hover the mouse
 howdy	こんにちは	Often used on WordPress.com instead of Hello.
+HTTP Referer URL	HTTP リファラ URL	
+HTTP User Agent	HTTP ユーザーエージェント	
+Image	画像	
+Import	インポート	
+Import Forms	フォームをインポート	
+in progress	処理中	
 Internet Corporation for Assigned Names and Numbers (ICANN)	Internet Corporation for Assigned Names and Numbers (ICANN)	The organization that oversees all domain name registrations. More info: https://www.icann.org/
 invalid	間違った	
 invalid	不正な	
 invalid	無効な	
 IP address	IP アドレス	A unique numerical address (e.g., 12.34.56.789) assigned to a computer, website, or web server.
+IP Address	IP アドレス	
 item	項目	一般的な事項の呼称
 keyword	キーワード	A word that describes the content of your website or blog.
-Late Renewal Fee	失効後更新手数料	Fee charged for renewing domains over 18 days past the expiration date. More info: https://en.support.wordpress.com/domains/all-about-domains/#expiration
-like	「いいね」	A way for people to show their appreciation for posts they come across on WordPress.com. It’s also a way for authors to show the world how popular their content has become.
-Like	いいね	In the context of liking a blog post
-Likes	いいね	See “like”
+Label	ラベル	
+Language	言語	
+Large	大サイズ	
+Last Name	姓	
+Late Renewal Fee	失効後更新手数料	Fee charged for renewing domains over 18 days past the expiration date.
+Left Aligned	左揃え	
+less than	より小さい	
+Light	ライト	
+like	「いいね」	
+Like	いいね	
+Likes	いいね	
 Link Hover	リンクホバー	An event of hovering over a hypertext link on a webpage. On link hover, the link text color usually changes (and the user can change the settings to choose this color)
-live chat	ライブチャット	Embedded online chat (way to provide customer support). More info: http://en.support.wordpress.com/live-chat/
+List	リスト	
+live chat	ライブチャット	
 live chat support	ライブチャットサポート	See “live chat”
 log in	ログイン	
 log out	ログアウト	
@@ -179,111 +270,170 @@ logged out	ログアウト中
 login	ログイン	
 logout	ログアウト	
 magazine	マガジン	マガジンスタイルのテーマに関する用語
+Mark as Read	既読にする	
+Mark read	既読	
 match	一致する	
 media item	メディアファイル	Media file, for example, an image or an audio file
 media library	メディアライブラリ	
 Media Uploader	メディアアップローダー	
+Medium	中サイズ	
 memory	メモリ	
-menu	メニュー	A list of common links that are usually displayed as the main navigation for your site. More info: https://en.support.wordpress.com/menus/
+menu	メニュー	A list of common links that are usually displayed as the main navigation for your site.
 menu item	メニュー項目	Types of links which can be added to a menu; e.g. pages, posts, categories, tags, links
 menu location	メニュー位置	The different positions a theme offers for placing a menu on your site
+Merge Tags	タグを統合	
+Message	メッセージ	
 meta	メタ	
 meta	メタ情報	
 minimal	ミニマル	ミニマルデザインに関するテーマ関連の用語
 minimalist theme	ミニマルデザインのテーマ	A theme with few design elements and minimalist aesthetic
 mobile device	モバイルデバイス	A device such as iPhone, iPad, Android, Windows Phone, Samsung tablet, or BlackBerry
-moderate	承認	Manage comments, for example approve or mark as spam. More info: http://en.support.wordpress.com/manage-comments/
+moderate	承認	Manage comments, for example approve or mark as spam. 
 modern design	モダンなデザイン	Design with modern, contemporary aesthetic
+Monthly	月	
+Move this entry to the trash	投稿をゴミ箱へ移動	
+Move to Trash	ゴミ箱に移動	
 multisite	マルチサイト	
 mute	ミュート	Turn off or stop (in the context of receiving push notifications)
 MX records	MX レコード	Custom DNS records that guide where email is sent.
 My Upgrades	アップグレード状況	
-My Upgrades	アップグレード状況	Refers to the dashboard menu item under Store. More info: http://en.support.wordpress.com/my-upgrades/
+My Upgrades	アップグレード状況	Refers to the dashboard menu item under Store. 
+MySQL Version	MySQL バージョン	
+Name	名	
 name server	ネームサーバー	A remote computer that automatically takes your domain name and turns it into an internet address known as an IP address.
 nameserver	ネームサーバー	
 navigation	ナビゲーション	
 network	サイトネットワーク	https://goo.gl/pXLGEj 参照
+New Form	新しいフォーム	
+Next	次ヘ	
+Next Button	次のボタン	
 next post	次の投稿	
 nonce	nonce	
-normal visitor	通常の訪問者	As opposed to “search engines”, human visitors who access the blog given the link. Context is privacy settings: http://en.support.wordpress.com/settings/privacy-settings/
+normal visitor	通常の訪問者	As opposed to “search engines”, human visitors who access the blog given the link. 
 not allowed to	〜する権限がありません。	
+Not Spam	スパムではない	
 not sticky	通常通り表示	For sticky post status.
-Notifications	通知	Pop-up or email messages displaying latest events on the site. More info: More info: http://en.support.wordpress.com/followers/
+Notes	注	
+Notifications	通知	Pop-up or email messages displaying latest events on the site. 
 older post	過去の投稿	
-Omnisearch	一括検索	Product name; blog search that searches across the blog's posts, pages, comments, and feedback. More info: http://en.support.wordpress.com/omnisearch/
+Omnisearch	一括検索	Product name; blog search that searches across the blog's posts, pages, comments, and feedback. 
 option	オプション	
 option	設定	
+Options	設定	
+Order	順序	
+Other	その他	
 override	上書きする	※「オーバーライドする」ではなく。
 page	ページ	Used to present static information about yourself or your site, and which may make up the content of your navigation menu. A good example of a Page is your “About me” page. Pages do not usually have dates or authors attached to them.
 page	固定ページ	
+Page Names	ページ名	
+Pagination	ページ送り	
 parameter	変数	
+Password	パスワード	
+Payment Amount	支払い金額	
+Payment Date	支払日	
+Payment Details	支払情報の詳細	
+Payment Status	支払い状況	
 pending	保留中	Awaiting an approval or decision by the site owner (context: comment, review, subscription...)
-permalink	パーマリンク	A unique URL, or site address, for a specific page or post on your site. For example, support.wordpress.com/lexicon
+Pending	承認待ち	
+permalink	パーマリンク	A unique URL, or site address, for a specific page or post on your site. 
 permission	パーミッション	
 permission	権限	
 personal blog	個人ブログ	A blog written from a personal perspective, or by one person (but possibly still focused on a specific topic), as opposed to a blog that represents a business
 personal blogger	個人ブロガー	A blogger writing primarily about their personal life (as opposed to business or another specific topic)
+Phone	電話番号	
 photoblogger	フォトブロガー	A blogger mainly posting photos
+PHP Version	PHP バージョン	
 PIN lock	PIN ロック	Four digit code used for protection, typically on mobile app
 ping	ping	
 ping	ピンバック	
 pingback	ピンバック	
-plan	プラン	As in Basic/Premium/Business Plan, type of WordPress.com blog. More info: http://store.wordpress.com/bundles/
+Placeholder	プレースホルダー	
+plan	プラン	
 plugin	プラグイン	
 poll	投票	
 Polldaddy	Polldaddy	Online survey tool - https://polldaddy.com/
-Portfolio Page	ポートフォリオページ	A website page that displays visual projects, such as artwork and photography. Specific use example in Illustratr theme: https://theme.wordpress.com/themes/illustratr/
+Portfolio Page	ポートフォリオページ	
 post	投稿	When referring to blog posts
 post	投稿する	In other contexts with a more generic meaning
-Post Carousel	投稿カルーセル	A way to display posts from all or one specific category in a slideshow. Specific example from Antenna theme: https://theme.wordpress.com/themes/antenna/
+Post Author	著者	
+Post Carousel	投稿カルーセル
+Post Edit URL	投稿編集 URL	
 post format	投稿フォーマット	
-Post List	投稿リスト	A list of posts, on a separate page or in a widget, displayed according to specific settings. Specific usage example from Antenna theme: https://theme.wordpress.com/themes/antenna/ More info: https://en.support.wordpress.com/display-posts-shortcode/
+Post Id	投稿 ID	
+Post List	投稿リスト	
 Post Meta	投稿メタ情報	Used for themes. Post meta in themes usually includes the author's name, publish date, categories and tags
 post status	投稿ステータス	
 post thumbnail	投稿サムネイル	
+Post Title	投稿タイトル	
 post type	投稿タイプ	
 posting goal	目標投稿数	A goal of certain number of posts in a time period
-premium theme	プレミアムテーマ	WordPress.com paid upgrade product name
-premium upgrade	プレミアムアップグレード	A service you can purchase from WordPress.com to get premium features. More info: http://en.support.wordpress.com/upgrades/
-Press This	Press This	WordPress.com tool name
+premium theme	プレミアムテーマ	
+premium upgrade	プレミアムアップグレード	
+Press This	Press This	
 preview	プレビュー	If you'd like to emphasize changes aren't being saved, you can use pr_via
 preview	プレビューする	
+Preview	プレビュー	
+Previous	前へ	
 previous post	過去の投稿	
+Price	料金	
 primary domain	主要ドメイン	The main domain (site address) that visitors will see when visiting the site.
-Privacy Protection	プライバシー保護	WordPress.com product name (paid upgrade)
-Privacy Upgrade	プライバシーアップグレード	Same as “Privacy Protection”
-Private Registration	プライベート登録	WordPress.com product name (paid upgrade) - Privacy Protection
-Private Whois upgrade	プライベート WHOIS アップグレード	Same as “Privacy Protection”
+Print	印刷	
+Privacy Protection	プライバシー保護	
+Product	商品	
 profile	プロフィール	
-Publicize	パブリサイズ	WordPress.com tool name
+Province	都道府県	
 publish	公開する	
+Published	公開済み	
 publishing platform	パブリッシング・プラットフォーム	A platform for publishing content and files, such as WordPress.com
+Qty	数量	
 query	クエリ	
 query	クエリー	
 Quick Post	クイックポスト	
-Reader	Reader	The part of WordPress.com where the user reads updates from other blogs, specifically http://en.support.wordpress.com/reader/ (also available on mobile devices)
+Radio Buttons	ラジオボタン	
+Reader	Reader	
 reader	読者	A person reading the blog.
-Redirect	転送	Alternative naming option for Site Redirect. More info: http://en.support.wordpress.com/site-redirect/
+Red	赤	
+Redirect	転送	Alternative naming option for Site Redirect. 
+Redirect	リダイレクト	
 referrer	リファラー	リンク元
 refund policy	返金ポリシー	A policy specifying when a product can be canceled for a refund
 registrar	登録業者	An organization or commercial entity that manages the reservation of Internet domain names
 report	レポート	報告書の意味で使われる場合
 required	必須	
+Required	必須	
+Required form fields	必須のフォームフィールド	
 responsive	レスポンシブ	マルチデバイス対応のレスポンシブデザインに関する用語
+Restore	復元	
 return value	戻り値	
-ribbon	リボン	Part of a theme design, for example in Ever After theme: http://theme.wordpress.com/themes/ever-after/
+Revenue	収入	
+Right Aligned	右揃え	
 role	権限グループ	
 RSS	RSS	
+Save	保存	
+Save Settings	設定を保存	
+Save Your Form	フォームを保存	
+Save Your New Form	新しいフォームを保存	
+Saving...	保存中 ...	
 Screen Options	表示オプション	
+Search	検索	
+Section	セクション	
+Select a form	フォームを選択	
+Select All	すべて選択	
+Select Forms	フォームを選択	
+Select image size	画像サイズを選択	
 self-hosted	インストール型の	
 server	サーバー	
-share	共有	"How many times a post has been shared, referred to in Stats, for example, as in ""Total Shares"". More info: http://en.support.wordpress.com/sharing/#share-stats"
-share	共有する	The process of publishing links to blog posts in social networks. More info: http://en.support.wordpress.com/sharing/
-sharing	シェアする	The process of publishing links to blog posts in social networks. More info: http://en.support.wordpress.com/sharing/#customizing-sharing-settings
-sharing button	共有ボタン	Refers to a button that allows the reader to send a link to a social network. E.g. click on the Facebook icon to share an article on Facebook. More info: http://en.support.wordpress.com/sharing/#customizing-sharing-settings
-sharing settings	共有設定	Top level menu items where sharing settings can be configured. More info: http://en.support.wordpress.com/sharing/
+Service	サービス	
+Settings	設定	
+share	共有	How many times a post has been shared, referred to in Stats, for example, as in "Total Shares". 
+share	共有する	The process of publishing links to blog posts in social networks. 
+sharing	シェアする	The process of publishing links to blog posts in social networks.
+sharing button	共有ボタン	Refers to a button that allows the reader to send a link to a social network. E.g. click on the Facebook icon to share an article on Facebook.
+sharing settings	共有設定	Top level menu items where sharing settings can be configured. 
 shortcode	ショートコード	A WordPress-specific code that enables users to perform actions like embedding files or creating objects that would otherwise have required a lot of coding.
-Showcase	ショーケース	As in Theme Showcase, could also be blog showcase. Example: http://theme.wordpress.com/
+Show	表示する	
+Show more details	詳細を表示	
+Showcase	ショーケース	As in Theme Showcase, could also be blog showcase. 
 sidebar	サイドバー	
 single post	個別投稿	
 Single Sign-On	シングルサインオン	
@@ -291,29 +441,40 @@ site	サイト
 Slider	スライダー	A way to display featured content on a website that changes the text/images, like in a slideshow.
 slideshow	スライドショー	When explaining what is a slideshow, use apresenta__o de slides
 slug	スラッグ	
+Small	小	
 Social Media	ソーシャルメディア	Social network sites such as Twitter, Facebook, Pinterest, and others.
 sorry		Do not translate this word (e.g. 申し訳ありません) and simply remove it in Japanese.
-Space Upgrade	容量アップグレード	Paid upgrade name. More info: More info: http://en.support.wordpress.com/space-upgrade/
+Source URL	ソース URL	
+Space Upgrade	容量アップグレード	Paid upgrade name. 
 spam	スパム	
 Spammiest	スパム最多	With the most spam received in a time period
 SRV record	SRV レコード	A type of a custom DNS record
+Standard	標準	
+Starred	スター付き	
+starts with	接頭文字列	
+State	州	
 status	ステータス	
+Status	ステータス	
 stick	先頭に固定表示する	
 sticky	先頭固定表示	
-Sticky Post	固定投稿	A post marked as “sticky” will appear above all other posts. More info: http://en.support.wordpress.com/posts/post-visibility/#sticky-posts
-store	ストア	Main menu item, see “WordPress.com Store”
+Sticky Post	固定投稿	A post marked as “sticky” will appear above all other posts. 
+store	ストア	
 string	文字列	
+Subject	件名	
+Submit	投稿する	
 subpanel	サブパネル	
 subscribe	購読する	
 subscription	購読	
 subscription dashboard	購読管理ダッシュボード	Page where a user can see and modify their subscriptions.
+Subscriptions	定期購読	
 Subversion	Subversion	WordPress development tool - https://subversion.apache.org/ (SVN)
+Success	成功	
 successfully		If the translation makes sense without it, do not translate this word (e.g. 正常に) and simply remove it in Japanese.
 summary emails	まとめメール	Emails sent to blog subscribers that include several posts over a period of time (as opposed to instant post emails)
 super-charge	パワーアップ	Upgrade in the sense of getting extra features; used to promote premium upgrades.
 support guide	サポートガイド	Support page/article
 support page	サポートページ	A webpage with support information
-support team	サポートチーム	WordPress.com team providing technical and billing support.
+support team	サポートチーム	
 survey	アンケート	
 tag	タグ	
 tagline	キャッチフレーズ	
@@ -325,47 +486,75 @@ term	語句
 term	項目	
 term	単語	
 terms and conditions	利用規約	terms of service
-terms of service	利用規約	Terms under which users can use (WordPress.com) service. See more: https://en.wordpress.com/tos/
+terms of service	利用規約	Terms under which users can use service.
 text editor	テキストエディター	
+Text:	テキスト:	
 theme	テーマ	
-Theme Showcase	テーマショーケース	WordPress.com tool name  - http://theme.wordpress.com/
+Theme	テーマ	
+Thumbnail	サムネイル	
+Time	時間	
 time stamp	タイムスタンプ	
 timestamp	タイムスタンプ	
+Title	タイトル	
+Today	今日	
 Toolbar	ツールバー	
+Total	合計	
+Total:	合計:	
 trackback	トラックバック	
 traffic	トラフィック	The amount of visitors and visits your site receives
+Transaction ID	トランザクション ID	
 Transfer Code	移管コード	A code necessary to transfer a domain name to a new registrar
 Transient	Transient	
+Trash	ゴミ箱	
 trial period	お試し期間	A period during which a user can try out a premium feature. Once the trial period is over, the user is expected to either pay to continue using the feature, otherwise the feature is no longer available.
 troubleshooting	トラブルシューティング	
 Twitter	Twitter	Social media service - http://twitter.com/
 two factor authentication 	二段階認証	
+Type	種類	
 typography	タイポグラフィ	
-Unfollow	フォロー解除	The process of unsubscribing from updates from a blog. More info: http://en.support.wordpress.com/following/
-unmute	ミュート解除	"Resume push notifications after turning them off. See also ""mute"""
+Unfollow	フォロー解除	The process of unsubscribing from updates
+Unit Price	単価	
+unmute	ミュート解除	Resume push notifications after turning them off. See also "mute"
+Untitled	無題	
+Untitled Confirmation	無題の内容確認	
+Untitled Form	無題フォーム	
 update	更新	
 update	更新する	
+Update	更新	
 upgrade	アップグレード	Software update (in the context of WordPress.org)
-Upgrades page	アップグレードページ	Page in the dashboard that lists all info about the user's upgrades. More info: http://en.support.wordpress.com/my-upgrades/
 upload	アップロード	
 uploader	アップローダー	
 URI	URL	
+Usage	使い方	
 user	ユーザー	
-username	ユーザー名	WordPress.com account username (the name used to log in)
+User	ユーザー	
+User Display Name	ユーザー表示名	
+User Email	ユーザーメール	
+User IP	ユーザー IP	
+User IP Address	ユーザー IP アドレス	
+User Login	ユーザーログイン	
+username	ユーザー名	
 valid	正しい	
 valid	有効な	
+Value	値	
 VaultPress	VaultPress	WordPress.org plugin - http://vaultpress.com/
-verification code	認証コード	A numeric code used in two-step authentification, for added account security. More info: https://en.support.wordpress.com/security/two-step-authentication/#logging-in
+verification code	認証コード	A numeric code used in two-step authentification, for added account security. 
 video	動画	
 view	表示	
+View	表示	
+Warning	警告	
 web server	Web サーバー	
 website	サイト	
-Widget	ウィジェット	A self-contained area of a web page that performs a specific function. For example, you can use a widget to display your Twitter feed in your site’s sidebar. More info: http://en.support.wordpress.com/widgets/
+Website	Web サイト URL	
+Widget	ウィジェット	A self-contained area of a web page that performs a specific function. For example, you can use a widget to display your Twitter feed in your site’s sidebar. 
 WordCamp	WordCamp	WordPress community event - http://wordcamp.org/
 WordPress	WordPress	
 WordPress Dashboard	WordPress ダッシュボード	
 WordPress.com	WordPress.com	
 XML-RPC	XML-RPC	More info: http://codex.wordpress.org/XML-RPC_Support
-Yummy Pie	パイチャート	"Humorous reference to a pie chart. Suggest translating as ""pie chart"" to avoid confusion."
+Yes	はい	
+Yesterday	昨日	
+Yummy Pie	パイチャート	Humorous reference to a pie chart. Suggest translating as "pie chart" to avoid confusion.
+yyyy-mm-dd	yyyy-mm-dd	
 ZIP	ZIP	File format type
 ZIP	郵便番号	Postal code
