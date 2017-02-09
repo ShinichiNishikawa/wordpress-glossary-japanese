@@ -23,9 +23,13 @@ RSS	RSS
 
 上の例では、原文（原語）である`taxonomy`に対して、`タクソノミー`という訳文（訳語）が充てられて、`例外で長音付き`というコメントが添えられています。2行目の`Sorry `に対しては訳語が無く、コメントがあります。コメントがない場合や英語と日本語で表記が同じものもあります。
 
-## 最初のバージョンの出自
+## 出自
 
-[WordPress.org にある用語集](https://translate.wordpress.org/projects/wp/dev/ja/default/glossary)をベースとしています。[WordPress.com](https://translate.wordpress.com/projects/wpcom/ja/default/glossary)から不要なものを除いて足しています。
+- 一般: [WordPress.org にある用語集](https://translate.wordpress.org/projects/wp/dev/ja/default/glossary)をベースとしています。
+- 一般: [WordPress.com](https://translate.wordpress.com/projects/wpcom/ja/default/glossary)から不要なものを除いて足しています。
+- 通貨: [ISO 4217 - Wikipedia](https://ja.wikipedia.org/wiki/ISO_4217)
+- 言語: [ISO 639言語コード - CyberLibrarian](http://www.asahi-net.or.jp/~ax2s-kmtn/ref/iso639.html)
+- 国名: [ISO 3166-1 - Wikipedia](https://ja.wikipedia.org/wiki/ISO_3166-1)
 
 ## 利用方法
 
