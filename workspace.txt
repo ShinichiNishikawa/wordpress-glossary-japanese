@@ -1,1 +1,371 @@
-en	ja	commentaccent color	ƒAƒNƒZƒ“ƒgƒJƒ‰[	Refers to colors used in the Customizer for the blog palettexxxxxxxxxxe.g. gAccent Color Oneh; gAccent Color Twohaction hook	ƒAƒNƒVƒ‡ƒ“ƒtƒbƒN	WordPress development termactivate	—LŒø‰»	ƒ{ƒ^ƒ“‚È‚Ç‚Ég‚¤ê‡activate	—LŒø‰»‚·‚é	•¶Í“à‚Åg‚¤ê‡activated	—LŒø‰»‚µ‚½	activated	—LŒø‰»Ï‚İ	activation e-mail	”FØƒ[ƒ‹	Automated email sent when registering a new address with WordPress.comad policy	Lƒ|ƒŠƒV[	The policy on advertisements that WordPress.com can place on user blogs.Ad-Free	L”ñ•\¦	Alternative naming option for No Ads. More info: http://en.support.wordpress.com/no-ads/add email	ƒ[ƒ‹‚ğ’Ç‰Á	Feature to connect email hosted with another provider. More info: http://en.support.wordpress.com/domains/add-email/address	ƒAƒhƒŒƒX	admin bar	ŠÇ—ƒo[	admin bar	ŠÇ—ƒo[	admin panel	ŠÇ—‰æ–Ê	admin panel	ŠÇ—‰æ–Ê	administrator	ŠÇ—Ò	administrator	ŠÇ—Ò	The most powerful user role on a WordPress site. More info: http://en.support.wordpress.com/user-roles/advanced settings	‚“x‚Èİ’è	After the Deadline	After the Deadline	Automattic ‚ÌƒT[ƒrƒX–¼ cf. http://www.afterthedeadline.com/After the Deadline	After the Deadline	Language checker (software name). Normally do not translate. http://afterthedeadline.com/all	‚·‚×‚Ä	‚Ğ‚ç‚ª‚È‘‚«Appearance	ŠOŠÏ	ŠÇ—‰æ–Êƒƒjƒ…[€–ÚAppearance	ŠOŠÏ	"ŠÇ—‰æ–Êƒƒjƒ…[€–ÚA top-level menu item in WordPress dashboard. Includes ThemesxxxxxxxxxxCustomizerxxxxxxxxxxWidgetsxxxxxxxxxxMenusxxxxxxxxxxHeaderxxxxxxxxxxBackgroundxxxxxxxxxxetc."applicable law	“K—p–@	Any law(s) that may applyarbitral decision	’‡Ù”»’f	Decision reached by arbitrationarchive	ƒA[ƒJƒCƒu	archive	ƒA[ƒJƒCƒu	archive	ƒA[ƒJƒCƒu‰»	archive	ƒA[ƒJƒCƒu‰»	archives	ƒA[ƒJƒCƒu	Older (vs. Most recent) posts on a blog. Archives can be displayed by monthxxxxxxxxxxby categoryxxxxxxxxxxby tagxxxxxxxxxxetc.are you sure you want	...‚µ‚Ä‚à‚æ‚¢‚Å‚·‚© ?	argument	ˆø”	argument	ˆø”	array	”z—ñ	array	”z—ñ	Development termarticle	“Še	article	“Še	Could refer to either pages or postsxxxxxxxxxxdepending on the theme.aside	ƒAƒTƒCƒh	Post format typexxxxxxxxxxdisplays as a short status update. To see more examples of post formats: http://en.support.wordpress.com/themes/post-formats/at the bottom	‰º•”A‰º	attachment	“Y•tƒtƒ@ƒCƒ‹	attachment	“Y•tƒtƒ@ƒCƒ‹	audio	‰¹ºƒtƒ@ƒCƒ‹	audio	‰¹ºƒtƒ@ƒCƒ‹	Audio files embedded on a blog. More info: http://en.support.wordpress.com/audio/Authenticator app	”FØƒAƒvƒŠ	An app for two factor authentificationxxxxxxxxxxe.g. Google Authentificator (there are other options). More info: http://en.support.wordpress.com/security/two-step-authentication/author	ì¬Ò	ƒe[ƒ}Eƒvƒ‰ƒOƒCƒ“‚ÌìÒauthor	ì¬Ò	Author of plugins and themesauthor	ì¬Ò	ƒe[ƒ}Eƒvƒ‰ƒOƒCƒ“‚ÌìÒauthor	“ŠeÒ	ƒuƒƒO“Še‚ğ·•M‚µ‚½ƒ†[ƒU[author	“ŠeÒ	Author of contents such as posts and pagesauthor	“ŠeÒ	ƒuƒƒO“Še‚ğ·•M‚µ‚½ƒ†[ƒU[auto renew	©“®XV	"See ""automatic renewal"""automatic renewal	©“®XV	A feexxxxxxxxxxusually annualxxxxxxxxxxthat gets collected on a recurring basis for a service. Automatic renewal is in contrast with the manual renewalxxxxxxxxxxwhere the user needs to make the purchase each time.Automattic	Automattic	The company that produces WordPress.comxxxxxxxxxxAkismetxxxxxxxxxxJetpackxxxxxxxxxxetc. More info: http://automattic.com/about/Automattician	Automattic Ğˆõ	Employee of Automatticavatar	ƒAƒoƒ^[	An image or picture that represents a user.background	”wŒi	Back image or color of a blog. More info: http://en.support.wordpress.com/themes/custom-backgrounds/background color	”wŒiF	background image	”wŒi‰æ‘œ	background pattern	”wŒiƒpƒ^[ƒ“	Pattern used for the blog theme backgroundbackup code	ƒoƒbƒNƒAƒbƒvƒR[ƒh	Codes used for account recovery. More info: http://en.support.wordpress.com/security/two-step-authentication/#backup-codesBasic	ƒx[ƒVƒbƒN	See WordPress.com Basicbilled yearly	”NŠz¿‹	billing history	‰Û‹à—š—ğ	A page showing all transactions made with WordPress.com (or another Automattic service). More info: https://en.support.wordpress.com/billing-history/binary	ƒoƒCƒiƒŠ	binary	ƒoƒCƒiƒŠ	blavatar	blavatar	A term we came up with by combining Blog and Avatar. Your blogfs avatarxxxxxxxxxxused as a favicon or in browser bookmarks. More info: http://support.wordpress.com/avatars/#what-is-a-blavatarblog	ƒuƒƒO	A type of website that is sometimes compared to online journaling. Blogs come in many varietiesxxxxxxxxxxbut most incorporate an interactive element such as comments and are comprised of postsxxxxxxxxxxrather than static pages.blog address	ƒuƒƒOƒAƒhƒŒƒX	URL where a blog can be foundxxxxxxxxxxe.g. Example.wordpress.com or example.comblog post	ƒuƒƒO“Še	See gposth. A longer way to refer to a blog's postsblog theme	ƒuƒƒOƒe[ƒ}	"Look and feel of your sitexxxxxxxxxxoften referred to as simply ""theme"". More info: https://en.support.wordpress.com/themes/"blogger	ƒuƒƒK[	A user creating content onlinexxxxxxxxxxin the form of a blogBlogs I Follow	ƒtƒHƒ[’†‚ÌƒuƒƒO	Refers to the blogs the reader is subscribed toxxxxxxxxxxoften displayed as a list or a grid. More info: https://en.support.wordpress.com/widgets/blogs-i-follow-widget/bookmarklet	ƒuƒbƒNƒ}[ƒNƒŒƒbƒg	bookmarklet	ƒuƒbƒNƒ}[ƒNƒŒƒbƒg	browser	ƒuƒ‰ƒEƒU[	browser	ƒuƒ‰ƒEƒU[	A web browser is the software used to access the web. Common browsers include Google ChromexxxxxxxxxxApple SafarixxxxxxxxxxMozilla Firefoxxxxxxxxxxxand Internet Explorer.BuddyPress	BuddyPress	BuddyPress	BuddyPress	WordPress.org plugin - http://buddypress.org/bundle	ƒpƒbƒP[ƒW	"Legacy term for ""plan"". More info: http://store.wordpress.com/bundles/"bundle purchase	ƒoƒŠƒ…[ƒpƒbƒN	Purchase of a premium plan (sometimes also called gbundleh)xxxxxxxxxxe.g. WordPress.com Premium or WordPress.com Businessbutton	ƒ{ƒ^ƒ“	Refers to button on the screen that the user is expected/directed to clickcart	‚¨”ƒ‚¢•¨ƒJƒS	Online shopping cartcategory	ƒJƒeƒSƒŠ[	—áŠO‚Å’·‰¹•t‚«category	ƒJƒeƒSƒŠ[	Used to group posts of similar content together to aid in the navigation of a site. More info: http://support.wordpress.com/posts/categories/character code	•¶šƒR[ƒh	character entity reference	•¶šÀ‘ÌQÆ	character entity reference	•¶šÀ‘ÌQÆ	character set	•¶šƒZƒbƒg	character set	•¶šƒZƒbƒg	chargeback	ƒ`ƒƒ[ƒWƒoƒbƒN	Reversal of a credit card charge by the paying party.chargeback fee	ƒ`ƒƒ[ƒWƒoƒbƒNè”—¿	"A ""fine"" a user needs to pay to re-enable their blogxxxxxxxxxxif they reverse a credit card payment to WordPress.com"chracteter code	•¶šƒR[ƒh	CNAME record	CNAME ƒŒƒR[ƒh	Type of a DNS record. More info: http://en.support.wordpress.com/domains/setting-custom-a-records/#adding-www-to-your-domaincolor scheme	”zF	color scheme	”zF	comment	ƒRƒƒ“ƒg	comment	ƒRƒƒ“ƒg	A reply left by visitors to your site on a blog post or page. Comments are typically left in response to the blog ownerfs post and generate discussion on the site. More info: http://support.wordpress.com/comments/comment	ƒRƒƒ“ƒg‚·‚é	comment	ƒRƒƒ“ƒg‚·‚é	Community Translator	ƒRƒ~ƒ…ƒjƒeƒB–|–óƒc[ƒ‹	A tool on WordPress.com that allows users to suggest translations of the user interface without leaving the page they are browsing. More info: https://en.support.wordpress.com/community-translator/computer	ƒRƒ“ƒsƒ…[ƒ^[	computer	ƒRƒ“ƒsƒ…[ƒ^[	conditional tag	ğŒ•ªŠòƒ^ƒO	conditional tag	ğŒ•ªŠòƒ^ƒO	constant	’è”	constant	’è”	contact form	‚¨–â‚¢‡‚í‚¹ƒtƒH[ƒ€	contact form	‚¨–â‚¢‡‚í‚¹ƒtƒH[ƒ€	A form that allows others contact the site owner without knowing the email address. More info: http://en.support.wordpress.com/contact-form/Content Area	ƒRƒ“ƒeƒ“ƒcƒGƒŠƒA	Where the main blog content is displayed. Context: gContent Area Backgroundhcontributor	ŠñeÒ	User role group. More info: https://en.support.wordpress.com/user-roles/#contributorcontributor	vŒ£Ò	Cookie	Cookie	ƒuƒ‰ƒEƒU‚Ì CookieCookie	Cookie	Browser cookieCreative Commons	ƒNƒŠƒGƒCƒeƒBƒuEƒRƒ‚ƒ“ƒY	An organization that provides free copyright licenses for sharing creative work. More info: http://creativecommons.org/aboutcrop	Ø‚è”²‚­	Remove portions of an image. See more: https://en.support.wordpress.com/images/image-editing/#croppingCustom Colors	ƒJƒXƒ^ƒ€ƒJƒ‰[	Part of the Custom Design upgradexxxxxxxxxxallows users to customize the color palette of their sites. More info: http://en.support.wordpress.com/custom-design/custom-colors/Custom CSS	ƒJƒXƒ^ƒ€ CSS	Part of the Custom Design upgradexxxxxxxxxxallows users to edit and add custom CSS on their site. More info: http://en.support.wordpress.com/custom-design/custom-css/Custom Design	ƒJƒXƒ^ƒ€ƒfƒUƒCƒ“	WordPress.com paid upgrade product nameCustom Domain	ƒJƒXƒ^ƒ€ƒhƒƒCƒ“	An address like example.com or example.ruxxxxxxxxxxas opposed to example.wordpress.com. More info: http://store.wordpress.com/premium-upgrades/custom-domains/Custom Fonts	ƒJƒXƒ^ƒ€ƒtƒHƒ“ƒg	Part of the Custom Design upgradexxxxxxxxxxallows users to add Typekit fonts to their site. More info: http://en.support.wordpress.com/custom-design/custom-fonts/Custom Post Type	ƒJƒXƒ^ƒ€“Šeƒ^ƒCƒv	Custom Post Type	ƒJƒXƒ^ƒ€“Šeƒ^ƒCƒv	customize	ƒJƒXƒ^ƒ}ƒCƒY	customize	ƒJƒXƒ^ƒ}ƒCƒY	Customizer	ƒJƒXƒ^ƒ}ƒCƒU[	A feature that allows users to customize and preview any theme before activating the changes. More info: http://en.support.wordpress.com/customizer/Dashboard	ƒ_ƒbƒVƒ…ƒ{[ƒh	Dashboard	ƒ_ƒbƒVƒ…ƒ{[ƒh	Your Dashboard is the administrative center for your blog. Via your Dashboardxxxxxxxxxxyou can create new postsxxxxxxxxxxchange your themexxxxxxxxxxor update your blog settings.deactivate	’â~‚·‚é	deactivate	’â~‚·‚é	deactivate	–³Œø‰»	deactivate	–³Œø‰»	default	ƒfƒtƒHƒ‹ƒg	default	ƒfƒtƒHƒ‹ƒg	default	‰Šúİ’è	default	‰Šúİ’è	default	‰Šú’l	default	‰Šú’l	default theme	ƒfƒtƒHƒ‹ƒgƒe[ƒ}	default theme	ƒfƒtƒHƒ‹ƒgƒe[ƒ}	deprecated	”ñ„§‚Ì	deprecated	”ñ„§‚Ì	description 	à–¾	developer	ŠJ”­Ò	developer	ŠJ”­Ò	Digital Millennium Copyright Act	ƒfƒWƒ^ƒ‹ƒ~ƒŒƒjƒAƒ€’˜ìŒ –@	A United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO). See more: http://www.copyright.gov/legislation/dmca.pdfdirectories	ƒfƒBƒŒƒNƒgƒŠ	directory	ƒfƒBƒŒƒNƒgƒŠ	directory	ƒfƒBƒŒƒNƒgƒŠ	disable	–³Œø‰»	Distraction Free Writing	W’†·•Mƒ‚[ƒh	Distraction Free Writing	W’†·•Mƒ‚[ƒh	A full-screen editing modexxxxxxxxxxmore info: http://en.support.wordpress.com/distraction-free-writing/domain	ƒhƒƒCƒ“	Domain Contact Information	ƒhƒƒCƒ“‚Ì˜A—æî•ñ	Contact information of the domain administrator (or owner)Domain Lock	ƒhƒƒCƒ“ƒƒbƒN	Domain status that prevents the domain from being transferred to another registrar without the owner's permission.domain mapping	ƒhƒƒCƒ“ƒ}ƒbƒsƒ“ƒO	WordPress.com paid upgrade product nameDomain Mapping	ƒhƒƒCƒ“ƒ}ƒbƒsƒ“ƒO	WordPress.com premium upgradexxxxxxxxxxallows user to change from e.g. yourgroovysite.wordpress.com to yourgroovydomain.com. More info:  http://en.support.wordpress.com/domains/domain name	ƒhƒƒCƒ“–¼	A domain name is a name used for identification purposes on the Internet. An example of a domain name is yoursite.com.domain registrar	ƒhƒƒCƒ““o˜^‹ÆÒ	domain registrar	ƒhƒƒCƒ““o˜^‹ÆÒ	An organization or commercial entity that manages the reservation of Internet domain namesdomain registration	ƒhƒƒCƒ““o˜^	The process of filing a unique domain name and contact information of its ownerdomain subscription	ƒhƒƒCƒ“ƒTƒuƒXƒNƒŠƒvƒVƒ‡ƒ“	A yearly upgrade to replace a site's free WordPress.com address with a custom domain namedomain transfer	ƒhƒƒCƒ“ˆÚŠÇ	The process of moving a domain's registration from one domain registrar to anotherdomain upgrade	ƒhƒƒCƒ“ƒAƒbƒvƒOƒŒ[ƒh	A yearly upgrade to replace a site's free WordPress.com address with a custom domain namedraft	‰º‘‚«	draft	‰º‘‚«	eCommerce	eƒRƒ}[ƒX	eCommerce	eƒRƒ}[ƒX	editor	ƒGƒfƒBƒ^[	Editing tool (e.g. visual editoreditor	ƒGƒfƒBƒ^[	Editing tool (e.g. visual editorxxxxxxxxxxtheme editorxxxxxxxxxxplugin editor).editor	•ÒWÒ	User role group.editor	•ÒWÒ	User role group. More info: http://en.support.wordpress.com/user-roles/#editoremail	ƒ[ƒ‹	email	ƒ[ƒ‹	email	ƒ[ƒ‹ƒAƒhƒŒƒX	email	ƒ[ƒ‹ƒAƒhƒŒƒX	email address	ƒ[ƒ‹ƒAƒhƒŒƒX	Describes the inbox that email messages are sent to. An example is myname@gmail.com.emoji	ŠG•¶š	Emoticons or smilies: https://en.support.wordpress.com/smilies/#emojisemoticon	Šç•¶š	enable	—LŒø‰»	Entry title	“Šeƒ^ƒCƒgƒ‹	Title of an entry (post or page)error	ƒGƒ‰[	error	ƒGƒ‰[	excerpt	”²ˆ	excerpt	”²ˆ	A shortened description of your blog post. More info: http://support.wordpress.com/splitting-content/excerpts/Extra Storage	’Ç‰Á—e—Ê	Upgrade that adds more storage space to the user's blog. More info: http://en.support.wordpress.com/space-upgrade/Facebook	Facebook	Facebook	Facebook	Social media service - http://facebook.com/favicon	ƒtƒ@ƒrƒRƒ“	The tiny image that usually shows up in the browser address bar when visiting a site. See also Blavatarfeatured image	ƒAƒCƒLƒƒƒbƒ`‰æ‘œ	featured image	ƒAƒCƒLƒƒƒbƒ`‰æ‘œ	featured post	‚¨‚·‚·‚ß“Še	featured post	‚¨‚·‚·‚ß“Še	feed	ƒtƒB[ƒh	feed	ƒtƒB[ƒh	filter	ƒtƒBƒ‹ƒ^[	filter	ƒtƒBƒ‹ƒ^[	filter	i‚è‚Ş	filter hook	ƒtƒBƒ‹ƒ^[ƒtƒbƒN	filter hook	ƒtƒBƒ‹ƒ^[ƒtƒbƒN	WordPress development termFirehose	Firehose	See WordPress.com Firehosefolder	ƒtƒHƒ‹ƒ_[	folder	ƒtƒHƒ‹ƒ_[	Follow	ƒtƒHƒ[	The process of subscribing to updates (in the Reader or via email) when a blog publishes new content. More info: http://en.support.wordpress.com/following/Follower	ƒtƒHƒƒ[	A person who receives updates or notifications when a blog publishes new content. More info: http://en.support.wordpress.com/followers/Following	ƒtƒHƒ[’†	"Statusxxxxxxxxxxas in ""you are already following this blog"". More info: http://en.support.wordpress.com/followers/"footer	ƒtƒbƒ^[	The area below the main post or page content which usually includes information such as copyright noticesxxxxxxxxxxthe themexxxxxxxxxxand hosting information.Forum	ƒtƒH[ƒ‰ƒ€	User support forum. More info: https://en.support.wordpress.com/getting-help-in-the-forums/free trial	–³—¿‚¨‚µ	A time period when a normally paid upgrade can be used on a blog for freeFreshly Pressed	Freshly Pressed	WordPress.com tool name. Editorial picks from WordPress.comxxxxxxxxxxupdated daily: https://wordpress.com/fresh/front end	ƒtƒƒ“ƒgƒGƒ“ƒh	front end	ƒtƒƒ“ƒgƒGƒ“ƒh	front end	ƒtƒƒ“ƒgƒGƒ“ƒh	front end	ƒtƒƒ“ƒgƒGƒ“ƒh	gallery	ƒMƒƒƒ‰ƒŠ[	—áŠO‚Å’·‰¹•t‚«gallery	ƒMƒƒƒ‰ƒŠ[	A collection of images attached to a post. Also refers to the collection itself within the Media Library as well as the images as displayed within a post or pagexxxxxxxxxxtypically as a series of thumbnails. More info: http://support.wordpress.com/images/gallery/gravatar	Gravatar	An image or picture that represents a user. More info: http://support.wordpress.com/avatars/#what-is-a-gravatarGravatar Profile	Gravatar ƒvƒƒtƒB[ƒ‹	Image and personal information a user chooses to associate and share. Example of a Gravatar profile: gravatar.com/mattGuided Transfer	ƒuƒƒOˆø‰z‚µƒAƒVƒXƒ^ƒ“ƒg	A paid service to have a WordPress.com blog manually transferred to another provider. More info: http://en.support.wordpress.com/guided-transfer/Ham	”ñƒXƒpƒ€	"Humorous term for ""not spam"". Suggest translating as ""not spam"" to avoid confusion."Hammiest	”ñƒXƒpƒ€Å‘½	"With the most non-spam received in a time period. Also see ""ham"""Happiness Engineers	ƒTƒ|[ƒgƒXƒ^ƒbƒt	Happiness Engineers	ƒTƒ|[ƒgƒXƒ^ƒbƒt	Headers	ƒwƒbƒ_[	Help Center	ƒwƒ‹ƒvƒZƒ“ƒ^[	A support page (or app section) with answers to frequently asked questions and/or technical support contactshide	”ñ•\¦	Hide XX ¨ `‚ğ”ñ•\¦host	ƒzƒXƒg	The home for your self-hosted WordPress site. Also known as hosting provider.hosting provider	ƒzƒXƒeƒBƒ“ƒOƒT[ƒrƒX	hosting provider	ƒzƒXƒeƒBƒ“ƒOƒT[ƒrƒX	See hosthosts	ƒzƒXƒeƒBƒ“ƒOƒT[ƒrƒX	hosts	ƒzƒXƒeƒBƒ“ƒOƒT[ƒrƒX	hover	ƒzƒo[	e.g. link hover - additional changes to the original string might be needed.hover	ƒ}ƒEƒXƒI[ƒo[	e.g. hover the mousehowdy	‚±‚ñ‚É‚¿‚Í	Often used on WordPress.com instead of Hello.Insights	“ŒvŠT—v	A stats page which gives you instant access to your all-time numbersxxxxxxxxxxincluding postsxxxxxxxxxxviewsxxxxxxxxxxand visitors. More info: https://en.support.wordpress.com/stats/#insightsinstant comment email	ƒRƒƒ“ƒg’Ê’mƒ[ƒ‹	An email notification that is sent as soon as a comment is posted on the blog being followed.instant post email	“Še’Ê’mƒ[ƒ‹	An email notification that is sent as soon as a post is posted on the blog being followed.Internet Corporation for Assigned Names and Numbers (ICANN)	Internet Corporation for Assigned Names and Numbers (ICANN)	The organization that oversees all domain name registrations. More info: https://www.icann.org/invalid	ŠÔˆá‚Á‚½	invalid	ŠÔˆá‚Á‚½	invalid	•s³‚È	invalid	•s³‚È	invalid	–³Œø‚È	invalid	–³Œø‚È	IP address	IP ƒAƒhƒŒƒX	IP address	IP ƒAƒhƒŒƒX	A unique numerical address (e.g.xxxxxxxxxx12.34.56.789) assigned to a computerxxxxxxxxxxwebsitexxxxxxxxxxor web server.item	€–Ú	ˆê”Ê“I‚È–€‚ÌŒÄÌJetpack	Jetpack	WordPress.org plugin - http://jetpack.me/Jetpack Manage	Jetpack ˆêŠ‡ŠÇ—‹@”\	Jetpack Monitor	Jetpack ƒ‚ƒjƒ^[	Plugin feature that alerts the owner about a site's downtime. More info: http://jetpack.me/support/monitor/keyword	ƒL[ƒ[ƒh	A word that describes the content of your website or blog.Late Renewal Fee	¸ŒøŒãXVè”—¿	Fee charged for renewing domains over 18 days past the expiration date. More info: https://en.support.wordpress.com/domains/all-about-domains/#expirationlike	u‚¢‚¢‚Ëv	A way for people to show their appreciation for posts they come across on WordPress.com. Itfs also a way for authors to show the world how popular their content has become.Like	‚¢‚¢‚Ë	In the context of liking a blog postLikes	‚¢‚¢‚Ë	See glikehLink Hover	ƒŠƒ“ƒNƒzƒo[	An event of hovering over a hypertext link on a webpage. On link hoverxxxxxxxxxxthe link text color usually changes (and the user can change the settings to choose this color)live chat	ƒ‰ƒCƒuƒ`ƒƒƒbƒg	Embedded online chat (way to provide customer support). More info: http://en.support.wordpress.com/live-chat/live chat support	ƒ‰ƒCƒuƒ`ƒƒƒbƒgƒTƒ|[ƒg	See glive chathlog in	ƒƒOƒCƒ“	log in	ƒƒOƒCƒ“	log out	ƒƒOƒAƒEƒg	log out	ƒƒOƒAƒEƒg	logged in	ƒƒOƒCƒ“’†	logged in	ƒƒOƒCƒ“’†	logged out	ƒƒOƒAƒEƒg’†	logged out	ƒƒOƒAƒEƒg’†	login	ƒƒOƒCƒ“	login	ƒƒOƒCƒ“	logout	ƒƒOƒAƒEƒg	logout	ƒƒOƒAƒEƒg	magazine	ƒ}ƒKƒWƒ“	ƒ}ƒKƒWƒ“ƒXƒ^ƒCƒ‹‚Ìƒe[ƒ}‚ÉŠÖ‚·‚é—pŒêmapped domain	ƒ}ƒbƒsƒ“ƒO‚³‚ê‚Ä‚¢‚éƒhƒƒCƒ“	Domain name used for a user's blog/sitexxxxxxxxxxe.g. yourgroovydomain.com instead of (default) yourgroovydomain.wordpress.commatch	ˆê’v‚·‚é	media item	ƒƒfƒBƒAƒtƒ@ƒCƒ‹	Media filexxxxxxxxxxfor examplexxxxxxxxxxan image or an audio filemedia library	ƒƒfƒBƒAƒ‰ƒCƒuƒ‰ƒŠ	Media Uploader	ƒƒfƒBƒAƒAƒbƒvƒ[ƒ_[	Media Uploader	ƒƒfƒBƒAƒAƒbƒvƒ[ƒ_[	memory	ƒƒ‚ƒŠ	menu	ƒƒjƒ…[	A list of common links that are usually displayed as the main navigation for your site. More info: https://en.support.wordpress.com/menus/menu item	ƒƒjƒ…[€–Ú	Types of links which can be added to a menu; e.g. pagesxxxxxxxxxxpostsxxxxxxxxxxcategoriesxxxxxxxxxxtagsxxxxxxxxxxlinksmenu location	ƒƒjƒ…[ˆÊ’u	The different positions a theme offers for placing a menu on your sitemeta	ƒƒ^	meta	ƒƒ^	meta	ƒƒ^î•ñ	meta	ƒƒ^î•ñ	minimal	ƒ~ƒjƒ}ƒ‹	ƒ~ƒjƒ}ƒ‹ƒfƒUƒCƒ“‚ÉŠÖ‚·‚éƒe[ƒ}ŠÖ˜A‚Ì—pŒêminimalist theme	ƒ~ƒjƒ}ƒ‹ƒfƒUƒCƒ“‚Ìƒe[ƒ}	A theme with few design elements and minimalist aestheticmobile device	ƒ‚ƒoƒCƒ‹ƒfƒoƒCƒX	A device such as iPhonexxxxxxxxxxiPadxxxxxxxxxxAndroidxxxxxxxxxxWindows PhonexxxxxxxxxxSamsung tabletxxxxxxxxxxor BlackBerrymoderate	³”F	Manage commentsxxxxxxxxxxfor example approve or mark as spam. More info: http://en.support.wordpress.com/manage-comments/modern design	ƒ‚ƒ_ƒ“‚ÈƒfƒUƒCƒ“	Design with modernxxxxxxxxxxcontemporary aestheticmultisite	ƒ}ƒ‹ƒ`ƒTƒCƒg	multisite	ƒ}ƒ‹ƒ`ƒTƒCƒg	mute	ƒ~ƒ…[ƒg	Turn off or stop (in the context of receiving push notifications)MX records	MX ƒŒƒR[ƒh	Custom DNS records that guide where email is sent.My Upgrades	ƒAƒbƒvƒOƒŒ[ƒhó‹µ	My Upgrades	ƒAƒbƒvƒOƒŒ[ƒhó‹µ	Refers to the dashboard menu item under Store. More info: http://en.support.wordpress.com/my-upgrades/name server	ƒl[ƒ€ƒT[ƒo[	name server	ƒl[ƒ€ƒT[ƒo[	A remote computer that automatically takes your domain name and turns it into an internet address known as an IP address.nameserver	ƒl[ƒ€ƒT[ƒo[	navigation	ƒiƒrƒQ[ƒVƒ‡ƒ“	navigation	ƒiƒrƒQ[ƒVƒ‡ƒ“	network	ƒTƒCƒgƒlƒbƒgƒ[ƒN	https://goo.gl/pXLGEj QÆnext post	Ÿ‚Ì“Še	next post	Ÿ‚Ì“Še	No Ads	L”ñ•\¦	Upgrade that removes ads from the user's WordPress.com blog. More info: http://en.support.wordpress.com/no-ads/nonce	nonce	normal visitor	’Êí‚Ì–K–âÒ	As opposed to gsearch engineshxxxxxxxxxxhuman visitors who access the blog given the link. Context is privacy settings: http://en.support.wordpress.com/settings/privacy-settings/not allowed to	`‚·‚éŒ ŒÀ‚ª‚ ‚è‚Ü‚¹‚ñB	not sticky	’Êí’Ê‚è•\¦	For sticky post status.not sticky	’Êí’Ê‚è•\¦	For sticky post status.Notifications	’Ê’m	Pop-up or email messages displaying latest events on the site. More info: More info: http://en.support.wordpress.com/followers/older post	‰ß‹‚Ì“Še	older post	‰ß‹‚Ì“Še	Omnisearch	ˆêŠ‡ŒŸõ	Product name; blog search that searches across the blog's postsxxxxxxxxxxpagesxxxxxxxxxxcommentsxxxxxxxxxxand feedback. More info: http://en.support.wordpress.com/omnisearch/option	ƒIƒvƒVƒ‡ƒ“	option	ƒIƒvƒVƒ‡ƒ“	option	İ’è	option	İ’è	override	ã‘‚«‚·‚é	¦uƒI[ƒo[ƒ‰ƒCƒh‚·‚év‚Å‚Í‚È‚­Bpage	ƒy[ƒW	page	ƒy[ƒW	Used to present static information about yourself or your sitexxxxxxxxxxand which may make up the content of your navigation menu. A good example of a Page is your gAbout meh page. Pages do not usually have dates or authors attached to them.page	ŒÅ’èƒy[ƒW	page	ŒÅ’èƒy[ƒW	parameter	•Ï”	parameter	•Ï”	pending	•Û—¯’†	Awaiting an approval or decision by the site owner (context: commentxxxxxxxxxxreviewxxxxxxxxxxsubscription...)permalink	ƒp[ƒ}ƒŠƒ“ƒN	permalink	ƒp[ƒ}ƒŠƒ“ƒN	A unique URLxxxxxxxxxxor site addressxxxxxxxxxxfor a specific page or post on your site. For examplexxxxxxxxxxsupport.wordpress.com/lexiconpermission	ƒp[ƒ~ƒbƒVƒ‡ƒ“	permission	ƒp[ƒ~ƒbƒVƒ‡ƒ“	permission	Œ ŒÀ	permission	Œ ŒÀ	personal blog	ŒÂlƒuƒƒO	A blog written from a personal perspectivexxxxxxxxxxor by one person (but possibly still focused on a specific topic)xxxxxxxxxxas opposed to a blog that represents a businesspersonal blogger	ŒÂlƒuƒƒK[	A blogger writing primarily about their personal life (as opposed to business or another specific topic)photoblogger	ƒtƒHƒgƒuƒƒK[	A blogger mainly posting photosPIN lock	PIN ƒƒbƒN	Four digit code used for protectionxxxxxxxxxxtypically on mobile appping	ping	ping	ping	ping	ƒsƒ“ƒoƒbƒN	ping	ƒsƒ“ƒoƒbƒN	pingback	ƒsƒ“ƒoƒbƒN	pingback	ƒsƒ“ƒoƒbƒN	plan	ƒvƒ‰ƒ“	As in Basic/Premium/Business Planxxxxxxxxxxtype of WordPress.com blog. More info: http://store.wordpress.com/bundles/plugin	ƒvƒ‰ƒOƒCƒ“	plugin	ƒvƒ‰ƒOƒCƒ“	poll	“Š•[	poll	“Š•[	Polldaddy	Polldaddy	Polldaddy	Polldaddy	Online survey tool - https://polldaddy.com/Portfolio Page	ƒ|[ƒgƒtƒHƒŠƒIƒy[ƒW	A website page that displays visual projectsxxxxxxxxxxsuch as artwork and photography. Specific use example in Illustratr theme: https://theme.wordpress.com/themes/illustratr/portfolio theme	ƒ|[ƒgƒtƒHƒŠƒIƒe[ƒ}	WordPress theme tailored to showcase artworkxxxxxxxxxxphotographyxxxxxxxxxxor anything visual. More info: https://theme.wordpress.com/themes/subjects/portfolio/ and https://en.wordpress.com/portfolios/post	ŒfÚ	post	“Še	post	“Še	When referring to blog postspost	“Še‚·‚é	post	“Še‚·‚é	In other contexts with a more generic meaningPost Carousel	“ŠeƒJƒ‹[ƒZƒ‹	A way to display posts from all or one specific category in a slideshow. Specific example from Antenna theme: https://theme.wordpress.com/themes/antenna/post format	“ŠeƒtƒH[ƒ}ƒbƒg	post format	“ŠeƒtƒH[ƒ}ƒbƒg	Post List	“ŠeƒŠƒXƒg	A list of postsxxxxxxxxxxon a separate page or in a widgetxxxxxxxxxxdisplayed according to specific settings. Specific usage example from Antenna theme: https://theme.wordpress.com/themes/antenna/ More info: https://en.support.wordpress.com/display-posts-shortcode/Post Meta	“Šeƒƒ^î•ñ	Used for themes. Post meta in themes usually includes the author's namexxxxxxxxxxpublish datexxxxxxxxxxcategories and tagspost status	“ŠeƒXƒe[ƒ^ƒX	post status	“ŠeƒXƒe[ƒ^ƒX	post thumbnail	“ŠeƒTƒ€ƒlƒCƒ‹	post thumbnail	“ŠeƒTƒ€ƒlƒCƒ‹	post type	“Šeƒ^ƒCƒv	post type	“Šeƒ^ƒCƒv	posting goal	–Ú•W“Še”	A goal of certain number of posts in a time periodpremium theme	ƒvƒŒƒ~ƒAƒ€ƒe[ƒ}	WordPress.com paid upgrade product namepremium upgrade	ƒvƒŒƒ~ƒAƒ€ƒAƒbƒvƒOƒŒ[ƒh	A service you can purchase from WordPress.com to get premium features. More info: http://en.support.wordpress.com/upgrades/Press This	Press This	Press This	Press This	WordPress.com tool namepreview	ƒvƒŒƒrƒ…[	If you'd like to emphasize changes aren't being savedxxxxxxxxxxyou can use pr_viapreview	ƒvƒŒƒrƒ…[‚·‚é	previous post	‰ß‹‚Ì“Še	previous post	‰ß‹‚Ì“Še	primary domain	å—vƒhƒƒCƒ“	The main domain (site address) that visitors will see when visiting the site.Privacy Protection	ƒvƒ‰ƒCƒoƒV[•ÛŒì	WordPress.com product name (paid upgrade)Privacy Upgrade	ƒvƒ‰ƒCƒoƒV[ƒAƒbƒvƒOƒŒ[ƒh	Same as gPrivacy ProtectionhPrivate Registration	ƒvƒ‰ƒCƒx[ƒg“o˜^	WordPress.com product name (paid upgrade) - Privacy ProtectionPrivate Whois upgrade	ƒvƒ‰ƒCƒx[ƒg WHOIS ƒAƒbƒvƒOƒŒ[ƒh	Same as gPrivacy Protectionhprofile	ƒvƒƒtƒB[ƒ‹	Information shown along with the user's name when the user comments on WordPress.com sites. More info: https://en.support.wordpress.com/manage-my-profile/proof of ownership	Š—LŒ Ø–¾	Proof that the user is indeed the owner of the account in question. More info: https://en.support.wordpress.com/account-recovery/#account-recovery-formPublicize	ƒpƒuƒŠƒTƒCƒY	WordPress.com tool namepublish	ŒöŠJ‚·‚é	publishing platform	ƒpƒuƒŠƒbƒVƒ“ƒOEƒvƒ‰ƒbƒgƒtƒH[ƒ€	A platform for publishing content and filesxxxxxxxxxxsuch as WordPress.comquery	ƒNƒGƒŠ	query	ƒNƒGƒŠ[	Quick Post	ƒNƒCƒbƒNƒ|ƒXƒg	Quick Post	ƒNƒCƒbƒNƒ|ƒXƒg	Reader	Reader	The part of WordPress.com where the user reads updates from other blogsxxxxxxxxxxspecifically http://en.support.wordpress.com/reader/ (also available on mobile devices)reader	“ÇÒ	reader	“ÇÒ	A person reading the blog.Reblog	ƒŠƒuƒƒO	A way to share posts published by other WordPress.com users on your own blog. More info: http://en.support.wordpress.com/reblogs/Reblog	ƒŠƒuƒƒO	A post reblogged on another user's blog. More info: http://en.support.wordpress.com/reblogs/Redirect	“]‘—	Alternative naming option for Site Redirect. More info: http://en.support.wordpress.com/site-redirect/referrer	ƒŠƒtƒ@ƒ‰[	ƒŠƒ“ƒNŒ³referrer	ƒŠƒtƒ@ƒ‰[	A blogxxxxxxxxxxweb sitexxxxxxxxxxor a search engine linking to the user's blog. More info: http://en.support.wordpress.com/stats/#referrersrefund policy	•Ô‹àƒ|ƒŠƒV[	A policy specifying when a product can be canceled for a refundregistrar	“o˜^‹ÆÒ	registrar	“o˜^‹ÆÒ	An organization or commercial entity that manages the reservation of Internet domain namesreport	ƒŒƒ|[ƒg	•ñ‘‚ÌˆÓ–¡‚Åg‚í‚ê‚éê‡required	•K{	required	•K{	responsive	ƒŒƒXƒ|ƒ“ƒVƒu	responsive	ƒŒƒXƒ|ƒ“ƒVƒu	ƒ}ƒ‹ƒ`ƒfƒoƒCƒX‘Î‰‚ÌƒŒƒXƒ|ƒ“ƒVƒuƒfƒUƒCƒ“‚ÉŠÖ‚·‚é—pŒêresponsive	ƒŒƒXƒ|ƒ“ƒVƒu	Refers to responsive designxxxxxxxxxxwhere sites have an optimal viewing experience - with easy reading and navigation with a minimum of resizingxxxxxxxxxxpanningxxxxxxxxxxand scrolling - across a wide range of devices (from mobile phones to desktop computer monitors).return value	–ß‚è’l	return value	–ß‚è’l	ribbon	ƒŠƒ{ƒ“	Part of a theme designxxxxxxxxxxfor example in Ever After theme: http://theme.wordpress.com/themes/ever-after/role	Œ ŒÀƒOƒ‹[ƒv	role	Œ ŒÀƒOƒ‹[ƒv	RSS	RSS	RSS	RSS	Screen Options	•\¦ƒIƒvƒVƒ‡ƒ“	self-hosted	ƒCƒ“ƒXƒg[ƒ‹Œ^‚Ì	self-hosted	ƒCƒ“ƒXƒg[ƒ‹Œ^‚Ì	server	ƒT[ƒo[	server	ƒT[ƒo[	share	‹¤—L	"How many times a post has been sharedxxxxxxxxxxreferred to in Statsxxxxxxxxxxfor examplexxxxxxxxxxas in ""Total Shares"". More info: http://en.support.wordpress.com/sharing/#share-stats"share	‹¤—L‚·‚é	The process of publishing links to blog posts in social networks. More info: http://en.support.wordpress.com/sharing/sharing	ƒVƒFƒA‚·‚é	The process of publishing links to blog posts in social networks. More info: http://en.support.wordpress.com/sharing/#customizing-sharing-settingssharing button	‹¤—Lƒ{ƒ^ƒ“	Refers to a button that allows the reader to send a link to a social network. E.g. click on the Facebook icon to share an article on Facebook. More info: http://en.support.wordpress.com/sharing/#customizing-sharing-settingssharing settings	‹¤—Lİ’è	Top level menu items where sharing settings can be configured. More info: http://en.support.wordpress.com/sharing/shortcode	ƒVƒ‡[ƒgƒR[ƒh	A WordPress-specific code that enables users to perform actions like embedding files or creating objects that would otherwise have required a lot of coding.Showcase	ƒVƒ‡[ƒP[ƒX	As in Theme Showcasexxxxxxxxxxcould also be blog showcase. Example: http://theme.wordpress.com/sidebar	ƒTƒCƒhƒo[	sidebar	ƒTƒCƒhƒo[	Simplenote	Simplenote	Product name; a note-taking app. More info: http://simplenote.com/single post	ŒÂ•Ê“Še	single post	ŒÂ•Ê“Še	Single Sign-On	ƒVƒ“ƒOƒ‹ƒTƒCƒ“ƒIƒ“	Jetpack module; allows signing onto self-hosted WordPress sites with WordPress.com credentials. More info: http://jetpack.me/support/sso/site	ƒTƒCƒg	site	ƒTƒCƒg	Site Redirect	ƒTƒCƒg“]‘—	Paid upgradexxxxxxxxxxredirects web address to another web address. More info: http://en.support.wordpress.com/site-redirect/Slider	ƒXƒ‰ƒCƒ_[	A way to display featured content on a website that changes the text/imagesxxxxxxxxxxlike in a slideshow.slideshow	ƒXƒ‰ƒCƒhƒVƒ‡[	When explaining what is a slideshowxxxxxxxxxxuse apresenta__o de slidesslug	ƒXƒ‰ƒbƒO	slug	ƒXƒ‰ƒbƒO	Social Media	ƒ\[ƒVƒƒƒ‹ƒƒfƒBƒA	Social network sites such as TwitterxxxxxxxxxxFacebookxxxxxxxxxxPinterestxxxxxxxxxxand others.Sorry		expressionsorry		Do not translate this word (e.g. \‚µ–ó‚ ‚è‚Ü‚¹‚ñ) and simply remove it in Japanese.Space Upgrade	—e—ÊƒAƒbƒvƒOƒŒ[ƒh	Paid upgrade name. More info: More info: http://en.support.wordpress.com/space-upgrade/spam	ƒXƒpƒ€	spam	ƒXƒpƒ€	Spammiest	ƒXƒpƒ€Å‘½	With the most spam received in a time periodSRV record	SRV ƒŒƒR[ƒh	A type of a custom DNS recordstatus	ƒXƒe[ƒ^ƒX	status	ƒXƒe[ƒ^ƒX	stick	æ“ª‚ÉŒÅ’è•\¦‚·‚é	stick	æ“ª‚ÉŒÅ’è•\¦‚·‚é	sticky	æ“ªŒÅ’è•\¦	sticky	æ“ªŒÅ’è•\¦	Sticky Post	ŒÅ’è“Še	A post marked as gstickyh will appear above all other posts. More info: http://en.support.wordpress.com/posts/post-visibility/#sticky-postsstore	ƒXƒgƒA	Main menu itemxxxxxxxxxxsee gWordPress.com Storehstring	•¶š—ñ	string	•¶š—ñ	subpanel	ƒTƒuƒpƒlƒ‹	subpanel	ƒTƒuƒpƒlƒ‹	subscribe	w“Ç‚·‚é	subscription	w“Ç	subscription dashboard	w“ÇŠÇ—ƒ_ƒbƒVƒ…ƒ{[ƒh	Page where a user can see and modify their subscriptions.Subversion	Subversion	Subversion	Subversion	WordPress development tool - https://subversion.apache.org/ (SVN)successfully		If the translation makes sense without itxxxxxxxxxxdo not translate this word (e.g. ³í‚É) and simply remove it in Japanese.summary emails	‚Ü‚Æ‚ßƒ[ƒ‹	Emails sent to blog subscribers that include several posts over a period of time (as opposed to instant post emails)super-charge	ƒpƒ[ƒAƒbƒv	Upgrade in the sense of getting extra features; used to promote premium upgrades.support guide	ƒTƒ|[ƒgƒKƒCƒh	Support page/articlesupport page	ƒTƒ|[ƒgƒy[ƒW	A webpage with support informationsupport team	ƒTƒ|[ƒgƒ`[ƒ€	WordPress.com team providing technical and billing support.survey	ƒAƒ“ƒP[ƒg	survey	ƒAƒ“ƒP[ƒg	tag	ƒ^ƒO	tag	ƒ^ƒO	tagline	ƒLƒƒƒbƒ`ƒtƒŒ[ƒY	tagline	ƒ^ƒOƒ‰ƒCƒ“	taxonomy	ƒ^ƒNƒ\ƒmƒ~[	—áŠO‚Å’·‰¹•t‚«taxonomy	ƒ^ƒNƒ\ƒmƒ~[	template hierarchy	ƒeƒ“ƒvƒŒ[ƒgŠK‘w	template hierarchy	ƒeƒ“ƒvƒŒ[ƒgŠK‘w	term	ƒ^ƒO	term	ƒ^ƒO	term	Œê‹å	term	Œê‹å	term	€–Ú	term	€–Ú	term	’PŒê	term	’PŒê	terms and conditions	—˜—p‹K–ñ	terms of serviceterms of service	—˜—p‹K–ñ	Terms under which users can use (WordPress.com) service. See more: https://en.wordpress.com/tos/text editor	ƒeƒLƒXƒgƒGƒfƒBƒ^[	text editor	ƒeƒLƒXƒgƒGƒfƒBƒ^[	theme	ƒe[ƒ}	theme	ƒe[ƒ}	Theme Showcase	ƒe[ƒ}ƒVƒ‡[ƒP[ƒX	WordPress.com tool name  - http://theme.wordpress.com/time stamp	ƒ^ƒCƒ€ƒXƒ^ƒ“ƒv	timestamp	ƒ^ƒCƒ€ƒXƒ^ƒ“ƒv	Toolbar	ƒc[ƒ‹ƒo[	Toolbar	ƒc[ƒ‹ƒo[	trackback	ƒgƒ‰ƒbƒNƒoƒbƒN	trackback	ƒgƒ‰ƒbƒNƒoƒbƒN	traffic	ƒgƒ‰ƒtƒBƒbƒN	The amount of visitors and visits your site receivesTransfer Code	ˆÚŠÇƒR[ƒh	A code necessary to transfer a domain name to a new registrarTransient	Transient	trial period	‚¨‚µŠúŠÔ	A period during which a user can try out a premium feature. Once the trial period is overxxxxxxxxxxthe user is expected to either pay to continue using the featurexxxxxxxxxxotherwise the feature is no longer available.troubleshooting	ƒgƒ‰ƒuƒ‹ƒVƒ…[ƒeƒBƒ“ƒO	troubleshooting	ƒgƒ‰ƒuƒ‹ƒVƒ…[ƒeƒBƒ“ƒO	Twitter	Twitter	Twitter	Twitter	Social media service - http://twitter.com/two factor authentication 	“ñ’iŠK”FØ	two factor authentication 	“ñ’iŠK”FØ	typography	ƒ^ƒCƒ|ƒOƒ‰ƒtƒB	Unfollow	ƒtƒHƒ[‰ğœ	The process of unsubscribing from updates from a blog. More info: http://en.support.wordpress.com/following/Unlimited Storage	—e—Ê–³§ŒÀ	Unlimited space for blog/site content and files (premium feature)Unlimited Themes	ƒe[ƒ}–³§ŒÀ—˜—p	Paid upgrade name. More info: http://store.wordpress.com/premium-upgrades/unlimited-themes/unmute	ƒ~ƒ…[ƒg‰ğœ	"Resume push notifications after turning them off. See also ""mute"""update	XV	update	XV‚·‚é	upgrade	ƒAƒbƒvƒOƒŒ[ƒh	upgrade	ƒAƒbƒvƒOƒŒ[ƒh	Software update (in the context of WordPress.org)upgrade	ƒAƒbƒvƒOƒŒ[ƒh	Premium service or paid product (in the context of WordPress.com)upgrade	ƒAƒbƒvƒOƒŒ[ƒh	Software update (in the context of WordPress.org)Upgrades page	ƒAƒbƒvƒOƒŒ[ƒhƒy[ƒW	Page in the dashboard that lists all info about the user's upgrades. More info: http://en.support.wordpress.com/my-upgrades/upload	ƒAƒbƒvƒ[ƒh	uploader	ƒAƒbƒvƒ[ƒ_[	uploader	ƒAƒbƒvƒ[ƒ_[	URI	URL	URI	URL	user	ƒ†[ƒU[	user	ƒ†[ƒU[	username	ƒ†[ƒU[–¼	WordPress.com account username (the name used to log in)valid	³‚µ‚¢	valid	³‚µ‚¢	valid	—LŒø‚È	valid	—LŒø‚È	VaultPress	VaultPress	WordPress.org plugin - http://vaultpress.com/verification code	”FØƒR[ƒh	A numeric code used in two-step authentificationxxxxxxxxxxfor added account security. More info: https://en.support.wordpress.com/security/two-step-authentication/#logging-invideo	“®‰æ	video	“®‰æ	VideoPress	VideoPress	WordPress.com product name (paid upgrade)view	•\¦	view	•\¦	VIP Hosting	VIP ƒzƒXƒeƒBƒ“ƒO	Enterprise-level hosting of WordPress sites by Automattic. Currently only available in English. More info: https://vip.wordpress.com/our-services/VIP Service	VIP ƒT[ƒrƒX	CollectivelyxxxxxxxxxxWordPress.com VIP offerings: Cloud Hosting and Support. More info: https://vip.wordpress.com/our-services/VIP Support	VIP ƒTƒ|[ƒg	Enterprise-level support of WordPress sites by Automattic. Currently only available in English. More info: https://vip.wordpress.com/our-services/web server	Web ƒT[ƒo[	web server	Web ƒT[ƒo[	website	ƒTƒCƒg	website	ƒTƒCƒg	Widget	ƒEƒBƒWƒFƒbƒg	A self-contained area of a web page that performs a specific function. For examplexxxxxxxxxxyou can use a widget to display your Twitter feed in your sitefs sidebar. More info: http://en.support.wordpress.com/widgets/WordCamp	WordCamp	WordCamp	WordCamp	WordPress community event - http://wordcamp.org/WordPress	WordPress	WordPress	WordPress	WordPress	WordPress	WordPress Dashboard	WordPress ƒ_ƒbƒVƒ…ƒ{[ƒh	WordPress Dashboard	WordPress ƒ_ƒbƒVƒ…ƒ{[ƒh	WordPress.com	WordPress.com	WordPress.com	WordPress.com	WordPress.com Basic	WordPress.com ƒx[ƒVƒbƒN	Refers to a freexxxxxxxxxxbasic WordPress.com blog. More info: http://store.wordpress.com/bundles/WordPress.com Beginner	WordPress.com ƒrƒMƒi[	WordPress.com paid upgrade product nameWordPress.com Business	WordPress.com ƒrƒWƒlƒX	WordPress.com paid upgrade product nameWordPress.com Enterprise	WordPress.com ƒGƒ“ƒ^[ƒvƒ‰ƒCƒY	WordPress.com paid upgrade product nameWordPress.com Firehose	WordPress.com Firehose	A developer service that provides postxxxxxxxxxxcomment and like content data streams. More info: http://developer.wordpress.com/docs/firehose/WordPress.com Premium	WordPress.com ƒvƒŒƒ~ƒAƒ€	WordPress.com paid upgrade product nameWordPress.com Reader	WordPress.com Reader	Same as gReaderhWordPress.com specialist	WordPress.com ƒTƒ|[ƒgƒXƒ^ƒbƒt	Support personxxxxxxxxxxsame as gHappiness EngineerhWordPress.com Store	WordPress.com ƒXƒgƒA	Main menu itemxxxxxxxxxxsection of the dashboard where upgrades can be purchasedWordPress.com Store	WordPress.com ƒXƒgƒA	Main menu itemxxxxxxxxxxsection of the dashboard where upgrades can be purchasedWordPress.com support	WordPress.com ƒTƒ|[ƒg	Technical and customer support (team) on WordPress.comWordPress.com support	WordPress.com ƒTƒ|[ƒg	Technical and customer support (team) on WordPress.comXML-RPC	XML-RPC	XML-RPC	XML-RPC	More info: http://codex.wordpress.org/XML-RPC_SupportXML-RPC	XML-RPC	XML-RPC	XML-RPC	More info: http://codex.wordpress.org/XML-RPC_SupportYummy Pie	ƒpƒCƒ`ƒƒ[ƒg	"Humorous reference to a pie chart. Suggest translating as ""pie chart"" to avoid confusion."Yummy Pie	ƒpƒCƒ`ƒƒ[ƒg	"Humorous reference to a pie chart. Suggest translating as ""pie chart"" to avoid confusion."ZIP	ZIP	File format typeZIP	ZIP	File format typeZIP	—X•Ö”Ô†	Postal codeZIP	—X•Ö”Ô†	Postal code
+accent color	ã‚¢ã‚¯ã‚»ãƒ³ãƒˆã‚«ãƒ©ãƒ¼	Refers to colors used in the Customizer for the blog palette, e.g. â€œAccent Color Oneâ€; â€œAccent Color Twoâ€
+action hook	ã‚¢ã‚¯ã‚·ãƒ§ãƒ³ãƒ•ãƒƒã‚¯	WordPress development term
+activate	æœ‰åŠ¹åŒ–	ãƒœã‚¿ãƒ³ãªã©ã«ä½¿ã†å ´åˆ
+activate	æœ‰åŠ¹åŒ–ã™ã‚‹	æ–‡ç« å†…ã§ä½¿ã†å ´åˆ
+activated	æœ‰åŠ¹åŒ–ã—ãŸ	
+activated	æœ‰åŠ¹åŒ–æ¸ˆã¿	
+activation e-mail	èªè¨¼ãƒ¡ãƒ¼ãƒ«	Automated email sent when registering a new address with WordPress.com
+ad policy	åºƒå‘Šãƒãƒªã‚·ãƒ¼	The policy on advertisements that WordPress.com can place on user blogs.
+add email	ãƒ¡ãƒ¼ãƒ«ã‚’è¿½åŠ 	Feature to connect email hosted with another provider. More info: http://en.support.wordpress.com/domains/add-email/
+address	ã‚¢ãƒ‰ãƒ¬ã‚¹	
+admin bar	ç®¡ç†ãƒãƒ¼	
+admin panel	ç®¡ç†ç”»é¢	
+administrator	ç®¡ç†è€…	The most powerful user role on a WordPress site. More info: http://en.support.wordpress.com/user-roles/
+advanced settings	é«˜åº¦ãªè¨­å®š	
+After the Deadline	After the Deadline	Automattic ã®ã‚µãƒ¼ãƒ“ã‚¹å cf. http://www.afterthedeadline.com/
+After the Deadline	After the Deadline	Language checker (software name). Normally do not translate. http://afterthedeadline.com/
+all	ã™ã¹ã¦	ã²ã‚‰ãŒãªæ›¸ã
+Appearance	å¤–è¦³	ç®¡ç†ç”»é¢ãƒ¡ãƒ‹ãƒ¥ãƒ¼é …ç›®
+A top-level menu item in WordPress dashboard. Includes Themes, Customizer, Widgets, Menus, Header, Background, etc."		
+applicable law	é©ç”¨æ³•	Any law(s) that may apply
+arbitral decision	ä»²è£åˆ¤æ–­	Decision reached by arbitration
+archive	ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–	
+archive	ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–åŒ–	
+archives	ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–	Older (vs. Most recent) posts on a blog. Archives can be displayed by month, by category, by tag, etc.
+are you sure you want	...ã—ã¦ã‚‚ã‚ˆã„ã§ã™ã‹ ?	
+argument	å¼•æ•°	
+array	é…åˆ—	Development term
+article	æŠ•ç¨¿	Could refer to either pages or posts, depending on the theme.
+aside	ã‚¢ã‚µã‚¤ãƒ‰	Post format type, displays as a short status update. To see more examples of post formats: http://en.support.wordpress.com/themes/post-formats/
+at the bottom	ä¸‹éƒ¨ã€ä¸‹	
+attachment	æ·»ä»˜ãƒ•ã‚¡ã‚¤ãƒ«	
+audio	éŸ³å£°ãƒ•ã‚¡ã‚¤ãƒ«	Audio files embedded on a blog. More info: http://en.support.wordpress.com/audio/
+Authenticator app	èªè¨¼ã‚¢ãƒ—ãƒª	An app for two factor authentification, e.g. Google Authentificator (there are other options). More info: http://en.support.wordpress.com/security/two-step-authentication/
+author	ä½œæˆè€…	ãƒ†ãƒ¼ãƒãƒ»ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã®ä½œè€…
+author	æŠ•ç¨¿è€…	ãƒ–ãƒ­ã‚°æŠ•ç¨¿ã‚’åŸ·ç­†ã—ãŸãƒ¦ãƒ¼ã‚¶ãƒ¼
+auto renew	è‡ªå‹•æ›´æ–°	"See ""automatic renewal"""
+automatic renewal	è‡ªå‹•æ›´æ–°	A fee, usually annual, that gets collected on a recurring basis for a service. Automatic renewal is in contrast with the manual renewal, where the user needs to make the purchase each time.
+Automattic	Automattic	The company that produces WordPress.com, Akismet, Jetpack, etc. More info: http://automattic.com/about/
+Automattician	Automattic ç¤¾å“¡	Employee of Automattic
+avatar	ã‚¢ãƒã‚¿ãƒ¼	An image or picture that represents a user.
+background	èƒŒæ™¯	Back image or color of a blog. More info: http://en.support.wordpress.com/themes/custom-backgrounds/
+background color	èƒŒæ™¯è‰²	
+background image	èƒŒæ™¯ç”»åƒ	
+background pattern	èƒŒæ™¯ãƒ‘ã‚¿ãƒ¼ãƒ³	Pattern used for the blog theme background
+backup code	ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã‚³ãƒ¼ãƒ‰	Codes used for account recovery. More info: http://en.support.wordpress.com/security/two-step-authentication/#backup-codes
+Basic	ãƒ™ãƒ¼ã‚·ãƒƒã‚¯	See WordPress.com Basic
+billed yearly	å¹´é¡è«‹æ±‚	
+billing history	èª²é‡‘å±¥æ­´	A page showing all transactions made with WordPress.com (or another Automattic service). More info: https://en.support.wordpress.com/billing-history/
+binary	ãƒã‚¤ãƒŠãƒª	
+blog	ãƒ–ãƒ­ã‚°	A type of website that is sometimes compared to online journaling. Blogs come in many varieties, but most incorporate an interactive element such as comments and are comprised of posts, rather than static pages.
+blog address	ãƒ–ãƒ­ã‚°ã‚¢ãƒ‰ãƒ¬ã‚¹	URL where a blog can be found, e.g. Example.wordpress.com or example.com
+blog post	ãƒ–ãƒ­ã‚°æŠ•ç¨¿	See â€œpostâ€. A longer way to refer to a blog's posts
+blog theme	ãƒ–ãƒ­ã‚°ãƒ†ãƒ¼ãƒ	"Look and feel of your site, often referred to as simply ""theme"". More info: https://en.support.wordpress.com/themes/"
+blogger	ãƒ–ãƒ­ã‚¬ãƒ¼	A user creating content online, in the form of a blog
+bookmarklet	ãƒ–ãƒƒã‚¯ãƒãƒ¼ã‚¯ãƒ¬ãƒƒãƒˆ	
+browser	ãƒ–ãƒ©ã‚¦ã‚¶ãƒ¼	A web browser is the software used to access the web. Common browsers include Google Chrome, Apple Safari, Mozilla Firefo, xand Internet Explorer.
+BuddyPress	BuddyPress	WordPress.org plugin - http://buddypress.org/
+bundle	ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸	"Legacy term for ""plan"". More info: http://store.wordpress.com/bundles/"
+bundle purchase	ãƒãƒªãƒ¥ãƒ¼ãƒ‘ãƒƒã‚¯	Purchase of a premium plan (sometimes also called â€œbundleâ€), e.g. WordPress.com Premium or WordPress.com Business
+button	ãƒœã‚¿ãƒ³	Refers to button on the screen that the user is expected/directed to click
+cart	ãŠè²·ã„ç‰©ã‚«ã‚´	Online shopping cart
+category	ã‚«ãƒ†ã‚´ãƒªãƒ¼	ä¾‹å¤–ã§é•·éŸ³ä»˜ã
+character code	æ–‡å­—ã‚³ãƒ¼ãƒ‰	
+character entity reference	æ–‡å­—å®Ÿä½“å‚ç…§	
+character set	æ–‡å­—ã‚»ãƒƒãƒˆ	
+chargeback	ãƒãƒ£ãƒ¼ã‚¸ãƒãƒƒã‚¯	Reversal of a credit card charge by the paying party.
+chargeback fee	ãƒãƒ£ãƒ¼ã‚¸ãƒãƒƒã‚¯æ‰‹æ•°æ–™	"A ""fine"" a user needs to pay to re-enable their blog, if they reverse a credit card payment to WordPress.com"
+chracteter code	æ–‡å­—ã‚³ãƒ¼ãƒ‰	
+CNAME record	CNAME ãƒ¬ã‚³ãƒ¼ãƒ‰	Type of a DNS record. More info: http://en.support.wordpress.com/domains/setting-custom-a-records/#adding-www-to-your-domain
+color scheme	é…è‰²	
+comment	ã‚³ãƒ¡ãƒ³ãƒˆ	A reply left by visitors to your site on a blog post or page. Comments are typically left in response to the blog ownerâ€™s post and generate discussion on the site. More info: http://support.wordpress.com/comments/
+comment	ã‚³ãƒ¡ãƒ³ãƒˆã™ã‚‹	
+Community Translator	ã‚³ãƒŸãƒ¥ãƒ‹ãƒ†ã‚£ç¿»è¨³ãƒ„ãƒ¼ãƒ«	A tool on WordPress.com that allows users to suggest translations of the user interface without leaving the page they are browsing. More info: https://en.support.wordpress.com/community-translator/
+computer	ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ãƒ¼	
+conditional tag	æ¡ä»¶åˆ†å²ã‚¿ã‚°	
+constant	å®šæ•°	
+contact form	ãŠå•ã„åˆã‚ã›ãƒ•ã‚©ãƒ¼ãƒ 	A form that allows others contact the site owner without knowing the email address. More info: http://en.support.wordpress.com/contact-form/
+Content Area	ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚¨ãƒªã‚¢	Where the main blog content is displayed. Context: â€œContent Area Backgroundâ€
+contributor	å¯„ç¨¿è€…	User role group. More info: https://en.support.wordpress.com/user-roles/#contributor
+Cookie	Cookie	ãƒ–ãƒ©ã‚¦ã‚¶ã® Cookie
+Creative Commons	ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ãƒ»ã‚³ãƒ¢ãƒ³ã‚º	An organization that provides free copyright licenses for sharing creative work. More info: http://creativecommons.org/about
+crop	åˆ‡ã‚ŠæŠœã	Remove portions of an image. See more: https://en.support.wordpress.com/images/image-editing/#cropping
+Custom Colors	ã‚«ã‚¹ã‚¿ãƒ ã‚«ãƒ©ãƒ¼	Part of the Custom Design upgrade, allows users to customize the color palette of their sites. More info: http://en.support.wordpress.com/custom-design/custom-colors/
+Custom CSS	ã‚«ã‚¹ã‚¿ãƒ  CSS	Part of the Custom Design upgrade, allows users to edit and add custom CSS on their site. More info: http://en.support.wordpress.com/custom-design/custom-css/
+Custom Design	ã‚«ã‚¹ã‚¿ãƒ ãƒ‡ã‚¶ã‚¤ãƒ³	WordPress.com paid upgrade product name
+Custom Domain	ã‚«ã‚¹ã‚¿ãƒ ãƒ‰ãƒ¡ã‚¤ãƒ³	An address like example.com or example.ru, as opposed to example.wordpress.com. More info: http://store.wordpress.com/premium-upgrades/custom-domains/
+Custom Fonts	ã‚«ã‚¹ã‚¿ãƒ ãƒ•ã‚©ãƒ³ãƒˆ	Part of the Custom Design upgrade, allows users to add Typekit fonts to their site. More info: http://en.support.wordpress.com/custom-design/custom-fonts/
+Custom Post Type	ã‚«ã‚¹ã‚¿ãƒ æŠ•ç¨¿ã‚¿ã‚¤ãƒ—	
+customize	ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚º	
+Customizer	ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚¶ãƒ¼	A feature that allows users to customize and preview any theme before activating the changes. More info: http://en.support.wordpress.com/customizer/
+Dashboard	ãƒ€ãƒƒã‚·ãƒ¥ãƒœãƒ¼ãƒ‰	Your Dashboard is the administrative center for your blog. Via your Dashboard, you can create new posts, change your theme, or update your blog settings.
+deactivate	åœæ­¢ã™ã‚‹	
+deactivate	ç„¡åŠ¹åŒ–	
+default	ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ	
+default	åˆæœŸè¨­å®š	
+default	åˆæœŸå€¤	
+default theme	ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆãƒ†ãƒ¼ãƒ	
+deprecated	éæ¨å¥¨ã®	
+description 	èª¬æ˜	
+developer	é–‹ç™ºè€…	
+Digital Millennium Copyright Act	ãƒ‡ã‚¸ã‚¿ãƒ«ãƒŸãƒ¬ãƒ‹ã‚¢ãƒ è‘—ä½œæ¨©æ³•	A United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO). See more: http://www.copyright.gov/legislation/dmca.pdf
+directories	ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª	
+directory	ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª	
+disable	ç„¡åŠ¹åŒ–	
+Distraction Free Writing	é›†ä¸­åŸ·ç­†ãƒ¢ãƒ¼ãƒ‰	A full-screen editing mode, more info: http://en.support.wordpress.com/distraction-free-writing/
+domain	ãƒ‰ãƒ¡ã‚¤ãƒ³	
+Domain Contact Information	ãƒ‰ãƒ¡ã‚¤ãƒ³ã®é€£çµ¡å…ˆæƒ…å ±	Contact information of the domain administrator (or owner)
+domain name	ãƒ‰ãƒ¡ã‚¤ãƒ³å	A domain name is a name used for identification purposes on the Internet. An example of a domain name is yoursite.com.
+domain registrar	ãƒ‰ãƒ¡ã‚¤ãƒ³ç™»éŒ²æ¥­è€…	An organization or commercial entity that manages the reservation of Internet domain names
+domain registration	ãƒ‰ãƒ¡ã‚¤ãƒ³ç™»éŒ²	The process of filing a unique domain name and contact information of its owner
+domain subscription	ãƒ‰ãƒ¡ã‚¤ãƒ³ã‚µãƒ–ã‚¹ã‚¯ãƒªãƒ—ã‚·ãƒ§ãƒ³	A yearly upgrade to replace a site's free WordPress.com address with a custom domain name
+domain transfer	ãƒ‰ãƒ¡ã‚¤ãƒ³ç§»ç®¡	The process of moving a domain's registration from one domain registrar to another
+domain upgrade	ãƒ‰ãƒ¡ã‚¤ãƒ³ã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰	A yearly upgrade to replace a site's free WordPress.com address with a custom domain name
+draft	ä¸‹æ›¸ã	
+eCommerce	eã‚³ãƒãƒ¼ã‚¹	
+editor	ã‚¨ãƒ‡ã‚£ã‚¿ãƒ¼	Editing tool (e.g. visual editor, theme editor, plugin editor).
+editor	ç·¨é›†è€…	User role group. More info: http://en.support.wordpress.com/user-roles/#editor
+email	ãƒ¡ãƒ¼ãƒ«	
+email	ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹	
+email address	ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹	Describes the inbox that email messages are sent to. An example is myname@gmail.com.
+emoji	çµµæ–‡å­—	Emoticons or smilies: https://en.support.wordpress.com/smilies/#emojis
+emoticon	é¡”æ–‡å­—	
+enable	æœ‰åŠ¹åŒ–	
+Entry title	æŠ•ç¨¿ã‚¿ã‚¤ãƒˆãƒ«	Title of an entry (post or page)
+error	ã‚¨ãƒ©ãƒ¼	
+excerpt	æŠœç²‹	A shortened description of your blog post. More info: http://support.wordpress.com/splitting-content/excerpts/
+Extra Storage	è¿½åŠ å®¹é‡	Upgrade that adds more storage space to the user's blog. More info: http://en.support.wordpress.com/space-upgrade/
+Facebook	Facebook	Social media service - http://facebook.com/
+favicon	ãƒ•ã‚¡ãƒ“ã‚³ãƒ³	The tiny image that usually shows up in the browser address bar when visiting a site. See also Blavatar
+featured image	ã‚¢ã‚¤ã‚­ãƒ£ãƒƒãƒç”»åƒ	
+featured post	ãŠã™ã™ã‚æŠ•ç¨¿	
+feed	ãƒ•ã‚£ãƒ¼ãƒ‰	
+filter	ãƒ•ã‚£ãƒ«ã‚¿ãƒ¼	
+filter	çµã‚Šè¾¼ã‚€	
+filter hook	ãƒ•ã‚£ãƒ«ã‚¿ãƒ¼ãƒ•ãƒƒã‚¯	WordPress development term
+Firehose	Firehose	See WordPress.com Firehose
+folder	ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼	
+Follow	ãƒ•ã‚©ãƒ­ãƒ¼	
+Follower	ãƒ•ã‚©ãƒ­ãƒ¯ãƒ¼	
+Following	ãƒ•ã‚©ãƒ­ãƒ¼ä¸­	
+footer	ãƒ•ãƒƒã‚¿ãƒ¼	The area below the main post or page content which usually includes information such as copyright notices, the theme, and hosting information.
+Forum	ãƒ•ã‚©ãƒ¼ãƒ©ãƒ 	User support forum.
+free trial	ç„¡æ–™ãŠè©¦ã—	A time period when a normally paid upgrade can be used on a blog for free
+Freshly Pressed	Freshly Pressed	WordPress.com tool name. Editorial picks from WordPress.com, updated daily: https://wordpress.com/fresh/
+front end	ãƒ•ãƒ­ãƒ³ãƒˆã‚¨ãƒ³ãƒ‰	
+gallery	ã‚®ãƒ£ãƒ©ãƒªãƒ¼	A collection of images attached to a post. Also refers to the collection itself within the Media Library as well as the images as displayed within a post or page, typically as a series of thumbnails. More info: http://support.wordpress.com/images/gallery/
+gravatar	Gravatar	An image or picture that represents a user. More info: http://support.wordpress.com/avatars/#what-is-a-gravatar
+Gravatar Profile	Gravatar ãƒ—ãƒ­ãƒ•ã‚£ãƒ¼ãƒ«	Image and personal information a user chooses to associate and share. Example of a Gravatar profile: gravatar.com/matt
+Ham	éã‚¹ãƒ‘ãƒ 	"Humorous term for ""not spam"". Suggest translating as ""not spam"" to avoid confusion."
+Hammiest	éã‚¹ãƒ‘ãƒ æœ€å¤š	"With the most non-spam received in a time period. Also see ""ham"""
+Happiness Engineers	ã‚µãƒãƒ¼ãƒˆã‚¹ã‚¿ãƒƒãƒ•	
+Headers	ãƒ˜ãƒƒãƒ€ãƒ¼	
+Help Center	ãƒ˜ãƒ«ãƒ—ã‚»ãƒ³ã‚¿ãƒ¼	A support page (or app section) with answers to frequently asked questions and/or technical support contacts
+hide	éè¡¨ç¤º	Hide XX â†’ ã€œã‚’éè¡¨ç¤º
+host	ãƒ›ã‚¹ãƒˆ	The home for your self-hosted WordPress site. Also known as hosting provider.
+hosting provider	ãƒ›ã‚¹ãƒ†ã‚£ãƒ³ã‚°ã‚µãƒ¼ãƒ“ã‚¹	See host
+hosts	ãƒ›ã‚¹ãƒ†ã‚£ãƒ³ã‚°ã‚µãƒ¼ãƒ“ã‚¹	
+hover	ãƒ›ãƒãƒ¼	e.g. link hover - additional changes to the original string might be needed.
+hover	ãƒã‚¦ã‚¹ã‚ªãƒ¼ãƒãƒ¼	e.g. hover the mouse
+howdy	ã“ã‚“ã«ã¡ã¯	Often used on WordPress.com instead of Hello.
+Internet Corporation for Assigned Names and Numbers (ICANN)	Internet Corporation for Assigned Names and Numbers (ICANN)	The organization that oversees all domain name registrations. More info: https://www.icann.org/
+invalid	é–“é•ã£ãŸ	
+invalid	ä¸æ­£ãª	
+invalid	ç„¡åŠ¹ãª	
+IP address	IP ã‚¢ãƒ‰ãƒ¬ã‚¹	A unique numerical address (e.g., 12.34.56.789) assigned to a computer, website, or web server.
+item	é …ç›®	ä¸€èˆ¬çš„ãªäº‹é …ã®å‘¼ç§°
+keyword	ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰	A word that describes the content of your website or blog.
+Late Renewal Fee	å¤±åŠ¹å¾Œæ›´æ–°æ‰‹æ•°æ–™	Fee charged for renewing domains over 18 days past the expiration date. More info: https://en.support.wordpress.com/domains/all-about-domains/#expiration
+like	ã€Œã„ã„ã­ã€	A way for people to show their appreciation for posts they come across on WordPress.com. Itâ€™s also a way for authors to show the world how popular their content has become.
+Like	ã„ã„ã­	In the context of liking a blog post
+Likes	ã„ã„ã­	See â€œlikeâ€
+Link Hover	ãƒªãƒ³ã‚¯ãƒ›ãƒãƒ¼	An event of hovering over a hypertext link on a webpage. On link hover, the link text color usually changes (and the user can change the settings to choose this color)
+live chat	ãƒ©ã‚¤ãƒ–ãƒãƒ£ãƒƒãƒˆ	Embedded online chat (way to provide customer support). More info: http://en.support.wordpress.com/live-chat/
+live chat support	ãƒ©ã‚¤ãƒ–ãƒãƒ£ãƒƒãƒˆã‚µãƒãƒ¼ãƒˆ	See â€œlive chatâ€
+log in	ãƒ­ã‚°ã‚¤ãƒ³	
+log out	ãƒ­ã‚°ã‚¢ã‚¦ãƒˆ	
+logged in	ãƒ­ã‚°ã‚¤ãƒ³ä¸­	
+logged out	ãƒ­ã‚°ã‚¢ã‚¦ãƒˆä¸­	
+login	ãƒ­ã‚°ã‚¤ãƒ³	
+logout	ãƒ­ã‚°ã‚¢ã‚¦ãƒˆ	
+magazine	ãƒã‚¬ã‚¸ãƒ³	ãƒã‚¬ã‚¸ãƒ³ã‚¹ã‚¿ã‚¤ãƒ«ã®ãƒ†ãƒ¼ãƒã«é–¢ã™ã‚‹ç”¨èª
+match	ä¸€è‡´ã™ã‚‹	
+media item	ãƒ¡ãƒ‡ã‚£ã‚¢ãƒ•ã‚¡ã‚¤ãƒ«	Media file, for example, an image or an audio file
+media library	ãƒ¡ãƒ‡ã‚£ã‚¢ãƒ©ã‚¤ãƒ–ãƒ©ãƒª	
+Media Uploader	ãƒ¡ãƒ‡ã‚£ã‚¢ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ€ãƒ¼	
+memory	ãƒ¡ãƒ¢ãƒª	
+menu	ãƒ¡ãƒ‹ãƒ¥ãƒ¼	A list of common links that are usually displayed as the main navigation for your site. More info: https://en.support.wordpress.com/menus/
+menu item	ãƒ¡ãƒ‹ãƒ¥ãƒ¼é …ç›®	Types of links which can be added to a menu; e.g. pages, posts, categories, tags, links
+menu location	ãƒ¡ãƒ‹ãƒ¥ãƒ¼ä½ç½®	The different positions a theme offers for placing a menu on your site
+meta	ãƒ¡ã‚¿	
+meta	ãƒ¡ã‚¿æƒ…å ±	
+minimal	ãƒŸãƒ‹ãƒãƒ«	ãƒŸãƒ‹ãƒãƒ«ãƒ‡ã‚¶ã‚¤ãƒ³ã«é–¢ã™ã‚‹ãƒ†ãƒ¼ãƒé–¢é€£ã®ç”¨èª
+minimalist theme	ãƒŸãƒ‹ãƒãƒ«ãƒ‡ã‚¶ã‚¤ãƒ³ã®ãƒ†ãƒ¼ãƒ	A theme with few design elements and minimalist aesthetic
+mobile device	ãƒ¢ãƒã‚¤ãƒ«ãƒ‡ãƒã‚¤ã‚¹	A device such as iPhone, iPad, Android, Windows Phone, Samsung tablet, or BlackBerry
+moderate	æ‰¿èª	Manage comments, for example approve or mark as spam. More info: http://en.support.wordpress.com/manage-comments/
+modern design	ãƒ¢ãƒ€ãƒ³ãªãƒ‡ã‚¶ã‚¤ãƒ³	Design with modern, contemporary aesthetic
+multisite	ãƒãƒ«ãƒã‚µã‚¤ãƒˆ	
+mute	ãƒŸãƒ¥ãƒ¼ãƒˆ	Turn off or stop (in the context of receiving push notifications)
+MX records	MX ãƒ¬ã‚³ãƒ¼ãƒ‰	Custom DNS records that guide where email is sent.
+My Upgrades	ã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰çŠ¶æ³	
+My Upgrades	ã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰çŠ¶æ³	Refers to the dashboard menu item under Store. More info: http://en.support.wordpress.com/my-upgrades/
+name server	ãƒãƒ¼ãƒ ã‚µãƒ¼ãƒãƒ¼	A remote computer that automatically takes your domain name and turns it into an internet address known as an IP address.
+nameserver	ãƒãƒ¼ãƒ ã‚µãƒ¼ãƒãƒ¼	
+navigation	ãƒŠãƒ“ã‚²ãƒ¼ã‚·ãƒ§ãƒ³	
+network	ã‚µã‚¤ãƒˆãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯	https://goo.gl/pXLGEj å‚ç…§
+next post	æ¬¡ã®æŠ•ç¨¿	
+nonce	nonce	
+normal visitor	é€šå¸¸ã®è¨ªå•è€…	As opposed to â€œsearch enginesâ€, human visitors who access the blog given the link. Context is privacy settings: http://en.support.wordpress.com/settings/privacy-settings/
+not allowed to	ã€œã™ã‚‹æ¨©é™ãŒã‚ã‚Šã¾ã›ã‚“ã€‚	
+not sticky	é€šå¸¸é€šã‚Šè¡¨ç¤º	For sticky post status.
+Notifications	é€šçŸ¥	Pop-up or email messages displaying latest events on the site. More info: More info: http://en.support.wordpress.com/followers/
+older post	éå»ã®æŠ•ç¨¿	
+Omnisearch	ä¸€æ‹¬æ¤œç´¢	Product name; blog search that searches across the blog's posts, pages, comments, and feedback. More info: http://en.support.wordpress.com/omnisearch/
+option	ã‚ªãƒ—ã‚·ãƒ§ãƒ³	
+option	è¨­å®š	
+override	ä¸Šæ›¸ãã™ã‚‹	â€»ã€Œã‚ªãƒ¼ãƒãƒ¼ãƒ©ã‚¤ãƒ‰ã™ã‚‹ã€ã§ã¯ãªãã€‚
+page	ãƒšãƒ¼ã‚¸	Used to present static information about yourself or your site, and which may make up the content of your navigation menu. A good example of a Page is your â€œAbout meâ€ page. Pages do not usually have dates or authors attached to them.
+page	å›ºå®šãƒšãƒ¼ã‚¸	
+parameter	å¤‰æ•°	
+pending	ä¿ç•™ä¸­	Awaiting an approval or decision by the site owner (context: comment, review, subscription...)
+permalink	ãƒ‘ãƒ¼ãƒãƒªãƒ³ã‚¯	A unique URL, or site address, for a specific page or post on your site. For example, support.wordpress.com/lexicon
+permission	ãƒ‘ãƒ¼ãƒŸãƒƒã‚·ãƒ§ãƒ³	
+permission	æ¨©é™	
+personal blog	å€‹äººãƒ–ãƒ­ã‚°	A blog written from a personal perspective, or by one person (but possibly still focused on a specific topic), as opposed to a blog that represents a business
+personal blogger	å€‹äººãƒ–ãƒ­ã‚¬ãƒ¼	A blogger writing primarily about their personal life (as opposed to business or another specific topic)
+photoblogger	ãƒ•ã‚©ãƒˆãƒ–ãƒ­ã‚¬ãƒ¼	A blogger mainly posting photos
+PIN lock	PIN ãƒ­ãƒƒã‚¯	Four digit code used for protection, typically on mobile app
+ping	ping	
+ping	ãƒ”ãƒ³ãƒãƒƒã‚¯	
+pingback	ãƒ”ãƒ³ãƒãƒƒã‚¯	
+plan	ãƒ—ãƒ©ãƒ³	As in Basic/Premium/Business Plan, type of WordPress.com blog. More info: http://store.wordpress.com/bundles/
+plugin	ãƒ—ãƒ©ã‚°ã‚¤ãƒ³	
+poll	æŠ•ç¥¨	
+Polldaddy	Polldaddy	Online survey tool - https://polldaddy.com/
+Portfolio Page	ãƒãƒ¼ãƒˆãƒ•ã‚©ãƒªã‚ªãƒšãƒ¼ã‚¸	A website page that displays visual projects, such as artwork and photography. Specific use example in Illustratr theme: https://theme.wordpress.com/themes/illustratr/
+post	æŠ•ç¨¿	When referring to blog posts
+post	æŠ•ç¨¿ã™ã‚‹	In other contexts with a more generic meaning
+Post Carousel	æŠ•ç¨¿ã‚«ãƒ«ãƒ¼ã‚»ãƒ«	A way to display posts from all or one specific category in a slideshow. Specific example from Antenna theme: https://theme.wordpress.com/themes/antenna/
+post format	æŠ•ç¨¿ãƒ•ã‚©ãƒ¼ãƒãƒƒãƒˆ	
+Post List	æŠ•ç¨¿ãƒªã‚¹ãƒˆ	A list of posts, on a separate page or in a widget, displayed according to specific settings. Specific usage example from Antenna theme: https://theme.wordpress.com/themes/antenna/ More info: https://en.support.wordpress.com/display-posts-shortcode/
+Post Meta	æŠ•ç¨¿ãƒ¡ã‚¿æƒ…å ±	Used for themes. Post meta in themes usually includes the author's name, publish date, categories and tags
+post status	æŠ•ç¨¿ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹	
+post thumbnail	æŠ•ç¨¿ã‚µãƒ ãƒã‚¤ãƒ«	
+post type	æŠ•ç¨¿ã‚¿ã‚¤ãƒ—	
+posting goal	ç›®æ¨™æŠ•ç¨¿æ•°	A goal of certain number of posts in a time period
+premium theme	ãƒ—ãƒ¬ãƒŸã‚¢ãƒ ãƒ†ãƒ¼ãƒ	WordPress.com paid upgrade product name
+premium upgrade	ãƒ—ãƒ¬ãƒŸã‚¢ãƒ ã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰	A service you can purchase from WordPress.com to get premium features. More info: http://en.support.wordpress.com/upgrades/
+Press This	Press This	WordPress.com tool name
+preview	ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼	If you'd like to emphasize changes aren't being saved, you can use pr_via
+preview	ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼ã™ã‚‹	
+previous post	éå»ã®æŠ•ç¨¿	
+primary domain	ä¸»è¦ãƒ‰ãƒ¡ã‚¤ãƒ³	The main domain (site address) that visitors will see when visiting the site.
+Privacy Protection	ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ä¿è­·	WordPress.com product name (paid upgrade)
+Privacy Upgrade	ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰	Same as â€œPrivacy Protectionâ€
+Private Registration	ãƒ—ãƒ©ã‚¤ãƒ™ãƒ¼ãƒˆç™»éŒ²	WordPress.com product name (paid upgrade) - Privacy Protection
+Private Whois upgrade	ãƒ—ãƒ©ã‚¤ãƒ™ãƒ¼ãƒˆ WHOIS ã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰	Same as â€œPrivacy Protectionâ€
+profile	ãƒ—ãƒ­ãƒ•ã‚£ãƒ¼ãƒ«	
+Publicize	ãƒ‘ãƒ–ãƒªã‚µã‚¤ã‚º	WordPress.com tool name
+publish	å…¬é–‹ã™ã‚‹	
+publishing platform	ãƒ‘ãƒ–ãƒªãƒƒã‚·ãƒ³ã‚°ãƒ»ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ 	A platform for publishing content and files, such as WordPress.com
+query	ã‚¯ã‚¨ãƒª	
+query	ã‚¯ã‚¨ãƒªãƒ¼	
+Quick Post	ã‚¯ã‚¤ãƒƒã‚¯ãƒã‚¹ãƒˆ	
+Reader	Reader	The part of WordPress.com where the user reads updates from other blogs, specifically http://en.support.wordpress.com/reader/ (also available on mobile devices)
+reader	èª­è€…	A person reading the blog.
+Redirect	è»¢é€	Alternative naming option for Site Redirect. More info: http://en.support.wordpress.com/site-redirect/
+referrer	ãƒªãƒ•ã‚¡ãƒ©ãƒ¼	ãƒªãƒ³ã‚¯å…ƒ
+refund policy	è¿”é‡‘ãƒãƒªã‚·ãƒ¼	A policy specifying when a product can be canceled for a refund
+registrar	ç™»éŒ²æ¥­è€…	An organization or commercial entity that manages the reservation of Internet domain names
+report	ãƒ¬ãƒãƒ¼ãƒˆ	å ±å‘Šæ›¸ã®æ„å‘³ã§ä½¿ã‚ã‚Œã‚‹å ´åˆ
+required	å¿…é ˆ	
+responsive	ãƒ¬ã‚¹ãƒãƒ³ã‚·ãƒ–	ãƒãƒ«ãƒãƒ‡ãƒã‚¤ã‚¹å¯¾å¿œã®ãƒ¬ã‚¹ãƒãƒ³ã‚·ãƒ–ãƒ‡ã‚¶ã‚¤ãƒ³ã«é–¢ã™ã‚‹ç”¨èª
+return value	æˆ»ã‚Šå€¤	
+ribbon	ãƒªãƒœãƒ³	Part of a theme design, for example in Ever After theme: http://theme.wordpress.com/themes/ever-after/
+role	æ¨©é™ã‚°ãƒ«ãƒ¼ãƒ—	
+RSS	RSS	
+Screen Options	è¡¨ç¤ºã‚ªãƒ—ã‚·ãƒ§ãƒ³	
+self-hosted	ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å‹ã®	
+server	ã‚µãƒ¼ãƒãƒ¼	
+share	å…±æœ‰	"How many times a post has been shared, referred to in Stats, for example, as in ""Total Shares"". More info: http://en.support.wordpress.com/sharing/#share-stats"
+share	å…±æœ‰ã™ã‚‹	The process of publishing links to blog posts in social networks. More info: http://en.support.wordpress.com/sharing/
+sharing	ã‚·ã‚§ã‚¢ã™ã‚‹	The process of publishing links to blog posts in social networks. More info: http://en.support.wordpress.com/sharing/#customizing-sharing-settings
+sharing button	å…±æœ‰ãƒœã‚¿ãƒ³	Refers to a button that allows the reader to send a link to a social network. E.g. click on the Facebook icon to share an article on Facebook. More info: http://en.support.wordpress.com/sharing/#customizing-sharing-settings
+sharing settings	å…±æœ‰è¨­å®š	Top level menu items where sharing settings can be configured. More info: http://en.support.wordpress.com/sharing/
+shortcode	ã‚·ãƒ§ãƒ¼ãƒˆã‚³ãƒ¼ãƒ‰	A WordPress-specific code that enables users to perform actions like embedding files or creating objects that would otherwise have required a lot of coding.
+Showcase	ã‚·ãƒ§ãƒ¼ã‚±ãƒ¼ã‚¹	As in Theme Showcase, could also be blog showcase. Example: http://theme.wordpress.com/
+sidebar	ã‚µã‚¤ãƒ‰ãƒãƒ¼	
+single post	å€‹åˆ¥æŠ•ç¨¿	
+Single Sign-On	ã‚·ãƒ³ã‚°ãƒ«ã‚µã‚¤ãƒ³ã‚ªãƒ³	
+site	ã‚µã‚¤ãƒˆ	
+Slider	ã‚¹ãƒ©ã‚¤ãƒ€ãƒ¼	A way to display featured content on a website that changes the text/images, like in a slideshow.
+slideshow	ã‚¹ãƒ©ã‚¤ãƒ‰ã‚·ãƒ§ãƒ¼	When explaining what is a slideshow, use apresenta__o de slides
+slug	ã‚¹ãƒ©ãƒƒã‚°	
+Social Media	ã‚½ãƒ¼ã‚·ãƒ£ãƒ«ãƒ¡ãƒ‡ã‚£ã‚¢	Social network sites such as Twitter, Facebook, Pinterest, and others.
+sorry		Do not translate this word (e.g. ç”³ã—è¨³ã‚ã‚Šã¾ã›ã‚“) and simply remove it in Japanese.
+Space Upgrade	å®¹é‡ã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰	Paid upgrade name. More info: More info: http://en.support.wordpress.com/space-upgrade/
+spam	ã‚¹ãƒ‘ãƒ 	
+Spammiest	ã‚¹ãƒ‘ãƒ æœ€å¤š	With the most spam received in a time period
+SRV record	SRV ãƒ¬ã‚³ãƒ¼ãƒ‰	A type of a custom DNS record
+status	ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹	
+stick	å…ˆé ­ã«å›ºå®šè¡¨ç¤ºã™ã‚‹	
+sticky	å…ˆé ­å›ºå®šè¡¨ç¤º	
+Sticky Post	å›ºå®šæŠ•ç¨¿	A post marked as â€œstickyâ€ will appear above all other posts. More info: http://en.support.wordpress.com/posts/post-visibility/#sticky-posts
+store	ã‚¹ãƒˆã‚¢	Main menu item, see â€œWordPress.com Storeâ€
+string	æ–‡å­—åˆ—	
+subpanel	ã‚µãƒ–ãƒ‘ãƒãƒ«	
+subscribe	è³¼èª­ã™ã‚‹	
+subscription	è³¼èª­	
+subscription dashboard	è³¼èª­ç®¡ç†ãƒ€ãƒƒã‚·ãƒ¥ãƒœãƒ¼ãƒ‰	Page where a user can see and modify their subscriptions.
+Subversion	Subversion	WordPress development tool - https://subversion.apache.org/ (SVN)
+successfully		If the translation makes sense without it, do not translate this word (e.g. æ­£å¸¸ã«) and simply remove it in Japanese.
+summary emails	ã¾ã¨ã‚ãƒ¡ãƒ¼ãƒ«	Emails sent to blog subscribers that include several posts over a period of time (as opposed to instant post emails)
+super-charge	ãƒ‘ãƒ¯ãƒ¼ã‚¢ãƒƒãƒ—	Upgrade in the sense of getting extra features; used to promote premium upgrades.
+support guide	ã‚µãƒãƒ¼ãƒˆã‚¬ã‚¤ãƒ‰	Support page/article
+support page	ã‚µãƒãƒ¼ãƒˆãƒšãƒ¼ã‚¸	A webpage with support information
+support team	ã‚µãƒãƒ¼ãƒˆãƒãƒ¼ãƒ 	WordPress.com team providing technical and billing support.
+survey	ã‚¢ãƒ³ã‚±ãƒ¼ãƒˆ	
+tag	ã‚¿ã‚°	
+tagline	ã‚­ãƒ£ãƒƒãƒãƒ•ãƒ¬ãƒ¼ã‚º	
+tagline	ã‚¿ã‚°ãƒ©ã‚¤ãƒ³	
+taxonomy	ã‚¿ã‚¯ã‚½ãƒãƒŸãƒ¼	ä¾‹å¤–ã§é•·éŸ³ä»˜ã
+template hierarchy	ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆéšå±¤	
+term	ã‚¿ã‚°	
+term	èªå¥	
+term	é …ç›®	
+term	å˜èª	
+terms and conditions	åˆ©ç”¨è¦ç´„	terms of service
+terms of service	åˆ©ç”¨è¦ç´„	Terms under which users can use (WordPress.com) service. See more: https://en.wordpress.com/tos/
+text editor	ãƒ†ã‚­ã‚¹ãƒˆã‚¨ãƒ‡ã‚£ã‚¿ãƒ¼	
+theme	ãƒ†ãƒ¼ãƒ	
+Theme Showcase	ãƒ†ãƒ¼ãƒã‚·ãƒ§ãƒ¼ã‚±ãƒ¼ã‚¹	WordPress.com tool name  - http://theme.wordpress.com/
+time stamp	ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—	
+timestamp	ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—	
+Toolbar	ãƒ„ãƒ¼ãƒ«ãƒãƒ¼	
+trackback	ãƒˆãƒ©ãƒƒã‚¯ãƒãƒƒã‚¯	
+traffic	ãƒˆãƒ©ãƒ•ã‚£ãƒƒã‚¯	The amount of visitors and visits your site receives
+Transfer Code	ç§»ç®¡ã‚³ãƒ¼ãƒ‰	A code necessary to transfer a domain name to a new registrar
+Transient	Transient	
+trial period	ãŠè©¦ã—æœŸé–“	A period during which a user can try out a premium feature. Once the trial period is over, the user is expected to either pay to continue using the feature, otherwise the feature is no longer available.
+troubleshooting	ãƒˆãƒ©ãƒ–ãƒ«ã‚·ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°	
+Twitter	Twitter	Social media service - http://twitter.com/
+two factor authentication 	äºŒæ®µéšèªè¨¼	
+typography	ã‚¿ã‚¤ãƒã‚°ãƒ©ãƒ•ã‚£	
+Unfollow	ãƒ•ã‚©ãƒ­ãƒ¼è§£é™¤	The process of unsubscribing from updates from a blog. More info: http://en.support.wordpress.com/following/
+unmute	ãƒŸãƒ¥ãƒ¼ãƒˆè§£é™¤	"Resume push notifications after turning them off. See also ""mute"""
+update	æ›´æ–°	
+update	æ›´æ–°ã™ã‚‹	
+upgrade	ã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰	Software update (in the context of WordPress.org)
+Upgrades page	ã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰ãƒšãƒ¼ã‚¸	Page in the dashboard that lists all info about the user's upgrades. More info: http://en.support.wordpress.com/my-upgrades/
+upload	ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰	
+uploader	ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ€ãƒ¼	
+URI	URL	
+user	ãƒ¦ãƒ¼ã‚¶ãƒ¼	
+username	ãƒ¦ãƒ¼ã‚¶ãƒ¼å	WordPress.com account username (the name used to log in)
+valid	æ­£ã—ã„	
+valid	æœ‰åŠ¹ãª	
+VaultPress	VaultPress	WordPress.org plugin - http://vaultpress.com/
+verification code	èªè¨¼ã‚³ãƒ¼ãƒ‰	A numeric code used in two-step authentification, for added account security. More info: https://en.support.wordpress.com/security/two-step-authentication/#logging-in
+video	å‹•ç”»	
+view	è¡¨ç¤º	
+web server	Web ã‚µãƒ¼ãƒãƒ¼	
+website	ã‚µã‚¤ãƒˆ	
+Widget	ã‚¦ã‚£ã‚¸ã‚§ãƒƒãƒˆ	A self-contained area of a web page that performs a specific function. For example, you can use a widget to display your Twitter feed in your siteâ€™s sidebar. More info: http://en.support.wordpress.com/widgets/
+WordCamp	WordCamp	WordPress community event - http://wordcamp.org/
+WordPress	WordPress	
+WordPress Dashboard	WordPress ãƒ€ãƒƒã‚·ãƒ¥ãƒœãƒ¼ãƒ‰	
+WordPress.com	WordPress.com	
+XML-RPC	XML-RPC	More info: http://codex.wordpress.org/XML-RPC_Support
+Yummy Pie	ãƒ‘ã‚¤ãƒãƒ£ãƒ¼ãƒˆ	"Humorous reference to a pie chart. Suggest translating as ""pie chart"" to avoid confusion."
+ZIP	ZIP	File format type
+ZIP	éƒµä¾¿ç•ªå·	Postal code
