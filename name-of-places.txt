@@ -1,10 +1,7 @@
 Afghanistan	アフガニスタン
 Africa	アフリカ
-Alabama	アラバマ州
 Åland Islands	オーランド諸島
-Alaska	アラスカ州
 Albania	アルバニア
-Alberta	アルバータ州
 Algeria	アルジェリア
 American Samoa	米サモア
 American Samoa	アメリカ領サモア
@@ -16,8 +13,6 @@ Antarctica	南極
 Antigua and Barbuda	アンチグアバーブーダ
 Antigua and Barbuda	アンティグア・バーブーダ
 Argentina	アルゼンチン
-Arizona	アリゾナ州
-Arkansas	アーカンソー州
 Armenia	アルメニア
 Aruba	アルバ
 Asia	アジア
@@ -41,14 +36,12 @@ Bosnia and Herzegovina	ボスニア・ヘルツェゴビナ
 Botswana	ボツワナ
 Bouvet Island	ブーベ島
 Brazil	ブラジル
-British Columbia	ブリティッシュコロンビア州
 British Indian Ocean Territory	イギリス領インド洋地域
 Brunei	ブルネイ
 Brunei Darussalam	ブルネイ・ダルサラーム
 Bulgaria	ブルガリア
 Burkina Faso	ブルキナファソ
 Burundi	ブルンジ
-California	カリフォルニア州
 Cambodia	カンボジア
 Cameroon	カメルーン
 Canada	カナダ
@@ -63,11 +56,9 @@ China	中華人民共和国
 Christmas Island	クリスマス島
 Cocos (Keeling) Islands	ココス（キーリング）諸島
 Colombia	コロンビア
-Colorado	コロラド州
 Comoros	コモロ
 Congo	コンゴ共和国
 Congo, the Democratic Republic of the	コンゴ民主共和国
-Connecticut	コネチカット州
 Cook Islands	クック諸島
 Costa Rica	コスタリカ
 Côte d'Ivoire	コートジボワール
@@ -77,7 +68,6 @@ Curaçao	キュラソー
 Cyprus	キプロス
 Czech Republic	チェコ共和国
 Czechia	チェコ
-Delaware	デラウェア州
 Denmark	デンマーク
 Djibouti	ジブチ
 Dominica	ドミニカ
@@ -97,15 +87,12 @@ Faroe Islands	フェロー諸島
 Featured Image	アイキャッチ画像
 Fiji	フィジー
 Finland	フィンランド
-Florida	フロリダ州
 France	フランス
 French Guiana	フランス領ギアナ
 French Polynesia	フランス領ポリネシア
 French Southern Territories	フランス領南方・南極地域
 Gabon	ガボン
 Gambia	ガンビア
-Georgia	ジョージア
-Georgia	ジョージア州
 Georgia	ジョージア
 Germany	ドイツ
 Ghana	ガーナ
@@ -128,12 +115,8 @@ Honduras	ホンジュラス
 Hong Kong	香港
 Hungary	ハンガリー
 Iceland	アイスランド
-Idaho	アイダホ州
-Illinois	イリノイ州
 India	インド
-Indiana	インディアナ州
 Indonesia	インドネシア
-Iowa	アイオワ州
 Iran	イラン
 Iran, Islamic Republic of	イラン・イスラム共和国
 Iraq	イラク
@@ -147,9 +130,7 @@ Jamaica	ジャマイカ
 Japan	日本
 Jersey	ジャージー
 Jordan	ヨルダン
-Kansas	カンザス州
 Kazakhstan	カザフスタン
-Kentucky	ケンタッキー州
 Kenya	ケニア
 Kiribati	キリバス
 Korea, Democratic People's Republic of	朝鮮民主主義人民共和国
@@ -166,38 +147,28 @@ Liberia	リベリア
 Libya	リビア
 Liechtenstein	リヒテンシュタイン
 Lithuania	リトアニア
-Louisiana	ルイジアナ州
 Luxembourg	ルクセンブルク
 Macau	マカオ
 Macedonia	マケドニア
 Macedonia, the former Yugoslav Republic of	マケドニア旧ユーゴスラビア共和国
 Madagascar	マダガスカル
-Maine	メイン州
 Malawi	マラウイ
 Malaysia	マレーシア
 Maldives	モルディブ
 Mali	マリ
 Malta	マルタ
-Manitoba	マニトバ州
 Marshall Islands	マーシャル諸島
 Martinique	マルティニーク
-Maryland	メリーランド州
-Massachusetts	マサチューセッツ州
 Mauritania	モーリタニア
 Mauritius	モーリシャス
 Mayotte	マヨット
 Mexico	メキシコ
-Michigan	ミシガン州
 Micronesia	ミクロネシア
 Micronesia, Federated States of	ミクロネシア連邦
-Minnesota	ミネソタ州
-Mississippi	ミシシッピー州
-Missouri	ミズーリ州
 Moldova	モルドバ
 Moldova, Republic of	モルドバ共和国
 Monaco	モナコ
 Mongolia	モンゴル
-Montana	モンタナ州
 Montenegro	モンテネグロ
 Montserrat	モントセラト
 Morocco	モロッコ
@@ -205,17 +176,10 @@ Mozambique	モザンビーク
 Myanmar	ミャンマー
 Namibia	ナミビア
 Nauru	ナウル
-Nebraska	ネブラスカ州
 Nepal	ネパール
 Nepal	ネパールの旗 ネパール
 Netherlands	オランダ
-Nevada	ネバダ州
-New Brunswick	ニューブランズウィック州
 New Caledonia	ニューカレドニア
-New Hampshire	ニューハンプシャー州
-New Jersey	ニュージャージー州
-New Mexico	ニューメキシコ州
-New York	ニューヨーク州
 New Zealand	ニュージーランド
 Nicaragua	ニカラグア
 Niger	ニジェール
@@ -223,26 +187,18 @@ Nigeria	ナイジェリア
 Niue	ニウエ
 Norfolk Island	ノーフォーク島
 North America	北アメリカ
-North Carolina	ノースカロライナ州
-North Dakota	ノースダコタ州
 North Korea	北朝鮮
 Northern Mariana Islands	北マリアナ諸島連邦
 Northern Mariana Islands	北マリアナ諸島
-Northwest Territories	ノースウェスト準州
 Norway	ノルウェー
-Nova Scotia	ノバスコシア州
-Nunavut	ヌナブト州
 Oman	オマーン
-Ontario	オンタリオ州
 Orange	オレンジ
-Oregon	オレゴン州
 Pakistan	パキスタン
 Palau	パラオ
 Palestinian Territory, Occupied	パレスチナ
 Panama	パナマ
 Papua New Guinea	パプアニューギニア
 Paraguay	パラグアイ
-Pennsylvania	ペンシルベニア州
 Peru	ペルー
 Philippine Peso	フィリピンペソ
 Philippines	フィリピン
@@ -250,12 +206,9 @@ Pitcairn	ピトケアン
 Poland	ポーランド
 Polish Zloty	ポーランドズロティ
 Portugal	ポルトガル
-Prince Edward Island	プリンスエドワードアイランド州
 Puerto Rico	プエルトリコ
 Qatar	カタール
-Quebec	ケベック州
 Réunion	レユニオン
-Rhode Island	ロードアイランド州
 Romania	ルーマニア
 Russia	ロシア
 Russian Federation	ロシア連邦
@@ -270,7 +223,6 @@ Saint Vincent and the Grenadines	セントビンセントおよびグレナデ�
 Samoa	サモア
 San Marino	サンマリノ
 Sao Tome and Principe	サントメ・プリンシペ
-Saskatchewan	サスカチュワン州
 Saudi Arabia	サウジアラビア
 Senegal	セネガル
 Serbia	セルビア
@@ -286,8 +238,6 @@ Somalia	ソマリア
 South Africa	南アフリカ
 South African Rand	南アフリカランド
 South America	南アメリカ
-South Carolina	サウスカロライナ州
-South Dakota	サウスダコタ州
 South Georgia and the South Sandwich Islands	サウスジョージア・サウスサンドウィッチ諸島
 South Korea	韓国
 South Sudan	南スーダン
@@ -306,8 +256,6 @@ Taiwan, Province of China	台湾
 Tajikistan	タジキスタン
 Tanzania	タンザニア
 Tanzania, United Republic of	タンザニア
-Tennessee	テネシー州
-Texas	テキサス州
 Thailand	タイ
 Timor-Leste	東ティモール
 Togo	トーゴ
@@ -326,23 +274,16 @@ United Kingdom	イギリス
 United States	アメリカ合衆国
 United States Minor Outlying Islands	合衆国領有小離島
 Uruguay	ウルグアイ
-Utah	ユタ州
 Uzbekistan	ウズベキスタン
 Vanuatu	バヌアツ
 Venezuela	ベネズエラ
 Venezuela, Bolivarian Republic of	ベネズエラ・ボリバル共和国
-Vermont	バーモント州
 Viet Nam	ベトナム
 Vietnam	ベトナム
 Virgin Islands, British	イギリス領ヴァージン諸島
 Virgin Islands, U.S.	アメリカ領ヴァージン諸島
-Virginia	バージニア州
 Wallis and Futuna	ウォリス・フツナ
-Washington	ワシントン州
-West Virginia	ウェストバージニア州
 Western Sahara	西サハラ
-Wisconsin	ウィスコンシン州
-Wyoming	ワイオミング州
 Yemen	イエメン
 Zambia	ザンビア
 Zimbabwe	ジンバブエ
