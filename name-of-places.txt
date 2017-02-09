@@ -1,0 +1,264 @@
+Arkansas	アーカンソー州
+Iowa	アイオワ州
+Featured Image	アイキャッチ画像
+Iceland	アイスランド
+Idaho	アイダホ州
+Asia	アジア
+Azerbaijan	アゼルバイジャン
+Afghanistan	アフガニスタン
+Africa	アフリカ
+Alaska	アラスカ州
+Alabama	アラバマ州
+United Arab Emirates	アラブ首長国連邦
+Arizona	アリゾナ州
+Algeria	アルジェリア
+Argentina	アルゼンチン
+Alberta	アルバータ州
+Albania	アルバニア
+Armenia	アルメリア
+Antigua and Barbuda	アンチグアバーブーダ
+Andorra	アンドラ
+Yemen	イエメン
+Israel	イスラエル
+Israeli New Sheqel	イスラエル新シェケル
+Italy	イタリア
+Italian	イタリア語
+Iraq	イラク
+Iran	イラン
+Illinois	イリノイ州
+Indiana	インディアナ州
+India	インド
+Indonesia	インドネシア
+Wisconsin	ウィスコンシン州
+West Virginia	ウェストバージニア州
+Uganda	ウガンダ
+Ukraine	ウクライナ
+Uzbekistan	ウズベキスタン
+Uruguay	ウルグアイ
+Ecuador	エクアドル
+Egypt	エジプト
+Estonia	エストニア
+Ethiopia	エチオピア
+Eritrea	エリトリア
+El Salvador	エルサルバドル
+Australia	オーストラリア
+Austria	オーストリア
+Oman	オマーン
+Netherlands	オランダ
+Oregon	オレゴン州
+Orange	オレンジ
+Ontario	オンタリオ州
+Ghana	ガーナ
+Cape Verde	カーボヴェルデ
+Guyana	ガイアナ
+Kazakhstan	カザフスタン
+Qatar	カタール
+Canada	カナダ
+Gabon	ガボン
+Cameroon	カメルーン
+California	カリフォルニア州
+Kansas	カンザス州
+Gambia	ガンビア
+Cambodia	カンボジア
+Guinea	ギニア
+Guinea-Bissau	ギニアビサウ
+Cyprus	キプロス
+Cuba	キューバ
+Greece	ギリシャ
+Kiribati	キリバス
+Kyrgyzstan	キルギスタン
+Guatemala	グアテマラ
+Guam	グアム
+Kuwait	クウェート
+Greenland	グリーンランド
+Grenada	グレナダ
+Croatia	クロアチア
+Cayman Islands	ケイマン諸島
+Kenya	ケニア
+Quebec	ケベック州
+Kentucky	ケンタッキー州
+Costa Rica	コスタリカ
+Connecticut	コネチカット州
+Comoros	コモロ
+Colorado	コロラド州
+Colombia	コロンビア
+Saudi Arabia	サウジアラビア
+South Carolina	サウスカロライナ州
+South Dakota	サウスダコタ州
+Saskatchewan	サスカチュワン州
+Samoa	サモア
+Zambia	ザンビア
+San Marino	サンマリノ
+Sierra Leone	シエラレオネ
+Djibouti	ジブチ
+Jamaica	ジャマイカ
+Georgia	ジョージア
+Georgia	ジョージア州
+Syria	シリア
+Singapore	シンガポール
+Zimbabwe	ジンバブエ
+Switzerland	スイス
+Sweden	スウェーデン
+Sudan	スーダン
+Spain	スペイン
+Suriname	スリナム
+Sri Lanka	スリランカ
+Slovakia	スロバキア
+Slovenia	スロベニア
+Swaziland	スワジランド
+Seychelles	セイシェル
+Serbia	セルビア
+Senegal	セネガル
+Saint Kitts and Nevis	セントクリストファー・ネイビス
+Saint Vincent and the Grenadines	セントビンセントおよびグレナディーン諸島
+Saint Lucia	セントルシア
+Somalia	ソマリア
+Solomon Islands	ソロモン諸島
+Thailand	タイ
+Tajikistan	タジキスタン
+Tanzania	タンザニア
+Czech Republic	チェコ共和国
+Chad	チャド
+Tunisia	チュニジア
+Chile	チリ
+Tuvalu	ツバル
+Texas	テキサス州
+Tennessee	テネシー州
+Delaware	デラウェア州
+Denmark	デンマーク
+Germany	ドイツ
+Togo	トーゴ
+Dominica	ドミニカ
+Dominican Republic	ドミニカ共和国
+Trinidad and Tobago	トリニダード・トバゴ
+Turkmenistan	トルクメニスタン
+Turkey	トルコ
+Tonga	トンガ
+Nigeria	ナイジェリア
+Nauru	ナウル
+Namibia	ナミビア
+Nicaragua	ニカラグア
+Niger	ニジェール
+New Zealand	ニュージーランド
+New Jersey	ニュージャージー州
+New Hampshire	ニューハンプシャー州
+New Brunswick	ニューブランズウィック州
+New Mexico	ニューメキシコ州
+New York	ニューヨーク州
+Nunavut	ヌナブト州
+Nepal	ネパール
+Nevada	ネバダ州
+Nebraska	ネブラスカ州
+Northwest Territories	ノースウェスト準州
+North Carolina	ノースカロライナ州
+North Dakota	ノースダコタ州
+Nova Scotia	ノバスコシア州
+Norway	ノルウェー
+Virginia	バージニア州
+Vermont	バーモント州
+Bahrain	バーレーン
+Haiti	ハイチ
+Pakistan	パキスタン
+Panama	パナマ
+Vanuatu	バヌアツ
+Bahamas	バハマ
+Papua New Guinea	パプアニューギニア
+Bermuda	バミューダ
+Paraguay	パラグアイ
+Barbados	バルバドス
+Hawaii	ハワイ
+Hungary	ハンガリー
+Bangladesh	バングラデシュ
+Fiji	フィジー
+Philippines	フィリピン
+Philippine Peso	フィリピンペソ
+Finland	フィンランド
+Bhutan	ブータン
+Puerto Rico	プエルトリコ
+Faroe Islands	フェロー諸島
+Brazil	ブラジル
+France	フランス
+French Polynesia	フランス領ポリネシア
+British Columbia	ブリティッシュコロンビア州
+Prince Edward Island	プリンスエドワードアイランド州
+Bulgaria	ブルガリア
+Burkina Faso	ブルキナファソ
+Brunei	ブルネイ
+Burundi	ブルンジ
+Florida	フロリダ州
+Vietnam	ベトナム
+Benin	ベナン
+Venezuela	ベネズエラ
+Belarus	ベラルーシ
+Belize	ベリーズ
+Peru	ペルー
+Belgium	ベルギー
+Pennsylvania	ペンシルベニア州
+Poland	ポーランド
+Polish Zloty	ポーランドズロティ
+Bosnia and Herzegovina	ボスニア・ヘルツェゴビナ
+Botswana	ボツワナ
+Bolivia	ボリビア
+Portugal	ポルトガル
+Honduras	ホンジュラス
+Marshall Islands	マーシャル諸島
+Macedonia	マケドニア
+Massachusetts	マサチューセッツ州
+Madagascar	マダガスカル
+Manitoba	マニトバ州
+Malawi	マラウイ
+Mali	マリ
+Malta	マルタ
+Malaysia	マレーシア
+Micronesia	ミクロネシア
+Michigan	ミシガン州
+Mississippi	ミシシッピー州
+Missouri	ミズーリ州
+Minnesota	ミネソタ州
+Myanmar	ミャンマー
+Maine	メイン州
+Mexico	メキシコ
+Maryland	メリーランド州
+Mauritius	モーリシャス
+Mauritania	モーリタニア
+Mozambique	モザンビーク
+Monaco	モナコ
+Maldives	モルディブ
+Moldova	モルドバ
+Morocco	モロッコ
+Mongolia	モンゴル
+Montana	モンタナ州
+Montenegro	モンテネグロ
+Utah	ユタ州
+Europe	ヨーロッパ
+Jordan	ヨルダン
+Laos	ラオス
+Latvia	ラトビア
+Lithuania	リトアニア
+Libya	リビア
+Liechtenstein	リヒテンシュタイン
+Liberia	リベリア
+Louisiana	ルイジアナ州
+Romania	ルーマニア
+Luxembourg	ルクセンブルク
+Rwanda	ルワンダ
+Lesotho	レソト
+Lebanon	レバノン
+Rhode Island	ロードアイランド州
+Russia	ロシア
+Wyoming	ワイオミング州
+Washington	ワシントン州
+South Korea	韓国
+Equatorial Guinea	赤道ギニア共和国
+Taiwan	台湾
+Central African Republic	中央アフリカ共和国
+China	中国
+South Africa	南アフリカ
+South African Rand	南アフリカランド
+South America	南アメリカ
+Antarctica	南極大陸
+Japan	日本
+American Samoa	米サモア
+North America	北アメリカ
+Northern Mariana Islands	北マリアナ諸島連邦
+North Korea	北朝鮮
