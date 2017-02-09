@@ -1,0 +1,193 @@
+action hook	アクションフック
+activate	有効化する
+activate	有効化	ボタンなどに使う場合
+activate	有効化する	文章内で使う場合
+activated	有効化した
+activated	有効化済み
+admin bar	管理バー
+admin panel	管理画面
+administrator	管理者
+advanced settings	高度な設定
+After the Deadline	After the Deadline	Automattic のサービス名 cf. http://www.afterthedeadline.com/
+all	すべて	ひらがな書き
+Appearance	外観	管理画面メニュー項目
+archive	アーカイブ
+archive	アーカイブ化
+argument	引数
+array	配列
+article	投稿
+attachment	添付ファイル
+audio	音声ファイル
+author	投稿者	ブログ投稿を執筆したユーザー
+author	作成者	テーマ・プラグインの作者
+binary	バイナリ
+bookmarklet	ブックマークレット
+browser	ブラウザー
+BuddyPress	BuddyPress
+category	カテゴリー	例外で長音付き
+character entity reference	文字実体参照
+character set	文字セット
+chracteter code	文字コード
+color scheme	配色
+comment	コメントする
+comment	コメント
+computer	コンピューター
+conditional tag	条件分岐タグ
+constant	定数
+contact form	お問い合わせフォーム
+contributor	貢献者
+Cookie	Cookie	ブラウザの Cookie
+Custom Post Type	カスタム投稿タイプ
+customize	カスタマイズ
+Dashboard	ダッシュボード
+deactivate	無効化
+deactivate	停止する
+default	初期設定
+default	初期値
+default	デフォルト
+default theme	デフォルトテーマ
+deprecated	非推奨の
+description 	説明
+developer	開発者
+directories	ディレクトリ
+directory	ディレクトリ
+disable	無効化
+Distraction Free Writing	集中執筆モード
+domain mapping	ドメインマッピング	WordPress.com paid upgrade product name
+domain registrar	ドメイン登録業者
+draft	下書き
+eCommerce	eコマース
+editor	エディター	"Editing tool (e.g. visual editor	 theme editor	 plugin editor)."
+editor	編集者	User role group.
+email	メール
+email	メールアドレス
+enable	有効化
+error	エラー
+excerpt	抜粋
+Facebook	Facebook
+featured image	アイキャッチ画像
+featured post	おすすめ投稿
+feed	フィード
+filter	フィルター
+filter	絞り込む
+filter hook	フィルターフック
+folder	フォルダー
+front end	フロントエンド
+front end	フロントエンド
+gallery	ギャラリー	例外で長音付き
+Happiness Engineers	サポートスタッフ
+hide	非表示	"Hide XX" → "〜を非表示"
+hosting provider	ホスティングサービス
+hosts	ホスティングサービス
+invalid	無効な
+invalid	不正な
+invalid	間違った
+IP address	IP アドレス
+item	項目	一般的な事項の呼称
+log in	ログイン
+log out	ログアウト
+logged in	ログイン中
+logged out	ログアウト中
+login	ログイン
+logout	ログアウト
+match	一致する
+media library	メディアライブラリ
+Media Uploader	メディアアップローダー
+memory	メモリ
+meta	メタ情報
+meta	メタ
+multisite	マルチサイト
+My Upgrades	アップグレード状況
+name server	ネームサーバー
+nameserver	ネームサーバー
+navigation	ナビゲーション
+network	サイトネットワーク	https://goo.gl/pXLGEj 参照
+next post	次の投稿
+nonce	nonce
+not allowed to	〜する権限がありません。
+not sticky	通常通り表示	For sticky post status.
+older post	過去の投稿
+option	設定
+option	オプション
+override	上書きする	※「オーバーライドする」ではなく。
+page	ページ
+page	固定ページ
+parameter	変数
+permalink	パーマリンク
+permission	権限
+permission	パーミッション
+ping	ピンバック
+ping	ping
+pingback	ピンバック
+plugin	プラグイン
+poll	投票
+Polldaddy	Polldaddy
+post	投稿
+post	投稿する
+post format	投稿フォーマット
+post status	投稿ステータス
+post thumbnail	投稿サムネイル
+post type	投稿タイプ
+Press This	Press This
+previous post	過去の投稿
+publish	公開する
+query	クエリー
+Quick Post	クイックポスト
+reader	読者
+referrer	リファラー	リンク元
+registrar	登録業者
+required	必須
+responsive	レスポンシブ
+return value	戻り値
+role	権限グループ
+RSS	RSS
+Screen Options	表示オプション
+self-hosted	インストール型の
+server	サーバー
+sidebar	サイドバー
+single post	個別投稿
+site	サイト
+slug	スラッグ
+Sorry			※この部分は翻訳しません。
+spam	スパム
+status	ステータス
+stick	先頭に固定表示する
+sticky	先頭固定表示
+string	文字列
+subpanel	サブパネル
+Subversion	Subversion
+survey	アンケート
+tag	タグ
+tagline	キャッチフレーズ
+taxonomy	タクソノミー	例外で長音付き
+template hierarchy	テンプレート階層
+term	タグ
+term	項目
+term	単語
+term	語句
+text editor	テキストエディター
+theme	テーマ
+Toolbar	ツールバー
+trackback	トラックバック
+Transient	Transient
+troubleshooting	トラブルシューティング
+Twitter	Twitter
+two factor authentication 	二段階認証
+update	更新
+update	更新する
+upgrade	アップグレード
+uploader	アップローダー
+URI	URL
+user	ユーザー
+valid	正しい
+valid	有効な
+video	動画
+view	表示
+web server	Web サーバー
+website	サイト
+WordCamp	WordCamp
+WordPress	WordPress
+WordPress	WordPress
+WordPress Dashboard	WordPress ダッシュボード
+WordPress.com	WordPress.com
+XML-RPC	XML-RPC
